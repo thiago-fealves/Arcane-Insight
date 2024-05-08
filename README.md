@@ -16,4 +16,4 @@ Citações Completas de Magias: Acesse descrições detalhadas de cada magia, in
 Respostas Contextuais: Tire suas dúvidas sobre magias e suas aplicações. O Arcane Insights responde a perguntas complexas com clareza e precisão, ajudando você a entender o funcionamento das magias de acordo com o contexto da sua campanha.
 
 ## Utilização:
-!magia {prompt}
+`!magia {prompt}`
