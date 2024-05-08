@@ -63,9 +63,13 @@ convo = model.start_chat(history=[
 @bot.event
 async def on_ready():
     print('bot conectado')
-
+@bot.command(aliases=['Help','h'])
+async def help(ctx):
+    text="# Lista de comandos\n## Magia ou m ou magia {prompt}:\nFaça uma pergunta à oráculo, ela pode responder qualquer coisa relacionada à qualquer magia de DnD5e\n**Observação**:O Gemini pode não identificar o nome da magia em português as vezes devido a conflitos de tradução, se isso ocorrer tente com o nome em inglês\n## Help ou help ou h:\nMostra essa mensagem\n### Obrigado por usar o Arcane Insights!"
+    await ctx.reply(text)
+#Comando de ajuda
 # Primeiro comando
-@bot.command()
+@bot.command(aliases=['m','Magia'])
 async def magia(ctx,*magia):
     mensagem=''
     for m in magia:
