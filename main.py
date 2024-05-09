@@ -8,7 +8,7 @@ import nextcord # type: ignore
 from nextcord.ext import commands # type: ignore
 from nextcord import Interaction,SlashOption # type: ignore
 import json
-
+from unidecode import unidecode
 
 #Variaveis
 load_dotenv()
@@ -71,15 +71,17 @@ async def help(ctx):
 @bot.command(alisase=['g'])
 async def grimorio(ctx, *entrada:str):
     entrada=' '.join(entrada)
-    prompt=entrada.split(':')
+    prompt=entrada.split('/')
     magia_encontrada=''
     magia=prompt[0]
     prompt=prompt[1]
     for entry in data["entries"]:
-      if data["entries"][entry]["name"].lower() == magia.lower():
+      if unidecode(data["entries"][entry]["name"].lower()) == unidecode(magia.lower()):
            magia_encontrada=data["entries"][entry]["description"]
            break
-    mensagem=f'{prompt_inicial}\n{magia_encontrada}\n{prompt}'
+    if magia_encontrada =='':
+      magia_encontrada=(f'Não localizei a magia{magia}')
+    mensagem=f'{prompt_inicial}\n\nMagia:{magia_encontrada}\n{prompt}'
     response=model.generate_content(mensagem)
     await ctx.reply(response.text)
 # Roda o bot
