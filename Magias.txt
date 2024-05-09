@@ -1,0 +1,1098 @@
+Nível 0
+
+Abjuração
+Proteção contra Laminas (V, G): Você recebe Resistência a dano físico por 1 turno.
+
+Resistência (V, G, M): Alvo tocado recebe 1d4 para adicionar em um único teste de resistência. Concentração, max 1 minuto.
+
+Adivinhação
+Ataque Certeiro (V): Seu próximo ataque contra alvo a até 9m, feito até o próximo turno, recebe Vantagem. Concentração, max 1 turno.
+
+Guia (V, G): Alvo tocado recebe um único d4 que pode adicionar para um teste de escolha pela duração. Só pode ter uma única Guia ativa. Concentração, max 1 minuto.
+
+
+Conjuração
+Criar Fogueira (V, G): Cria fogueira a até 18m. Criatura no local, entrando ou terminando turno nele sofre 1d8. DES nega. Concentração, max 1 minuto. Melhoria: +1d8 aos níveis 5, 11 e 17.
+
+Disparo Ácido (V, G): Até dois alvos adjacentes a até 18m sofrem 1d6 (DES nega). Melhoria: +1d6 níveis 5, 11 e 17.
+
+Infestação (V, G, M): Alvo a até 9m sofre 1d6 venenoso, e deve se mover 1,5m em uma direção aleatória. Esse movimento não provoca ataques de oportunidade. CON nega. Melhoria: +1d6 aos níveis 5, 11 e 17.
+
+Mãos Mágicas (V, G): Mãos de energia a até 9m pode ser movida dentro do alcance e pode ser usada para manipulação de objetos. Mão não pode atacar, ativar itens mágicos ou carregar mais do que 5kg. 1 minuto.
+
+Produzir Chama (V, G): Chama gera luz brilhante em 3m e luz baixa em mais 3m. Pode arremessar a chama com ataque a até 9m, causando 1d8 fogo. 10 minutos. Melhoria: +1d8 aos níveis 5, 11 e 17.
+
+Spray Ácido (V, G, M): Alvo adjacente sofre 1d12 venenoso. CON nega. Melhoria: +1d12 aos níveis 5, 11 e 17.
+
+
+Encantamento
+Amigos (V, G): Recebe vantagem para testes de CAR contra um alvo escolhido. Ao fim da magia alvo sabe que você usou magia para influenciá-lo e pode se tornar Hostil. Concentração, max 1 minuto.
+
+Escárnio Terrível (V): Alvo a até 18m sofre 1d4 psíquico e Desvantagem no próximo ataque se feito no próximo turno. SAB nega. Melhoria: +1d4 aos níveis 5, 11 e 17.
+
+
+Evocação
+Chama Sagrada (V, G): Alvo a até 18m sofre 1d8 radiante. DES nega. Melhoria: +1d8 aos níveis 5, 11 e 17.
+
+Disparo de Fogo (V, G): Ataque a distância de 36m causa 1d10 fogo. Incendeia objetos soltos inflamáveis. Melhoria: +1d10 aos níveis 5, 11 e 17.
+
+Friagem (V, G): Alvo a até 18m sofre 1d6 frio e tem Desvantagem no próximo ataque feito no próximo turno. CON nega. Melhoria: +1d6 aos níveis 5, 11 e 17.
+
+Explosão Ardente (V, G): Cone de 3m causa 1d4 fogo. DES metade. Melhoria: +1d4 aos níveis 5, 11 e 17.
+
+Explosão de Espadas (V): Criaturas adjacentes sofrem 1d6 de energia. DES nega. Melhoria: +1d6 aos níveis 5, 11 e 17.
+
+Globos de Luz (V, G, M): Cria 4 globos ou forma vagamente humanoide a até 36m que geram luz baixa em raio de 3m. Luzes podem ser movidas até 18m por turno, mas nenhuma pode ficar a mais de 6m da outra. Concentração, max 1 minuto.
+
+Isca de Relâmpago (V): Alvo a até 4,5m é puxado 3m mais perto de você e sofre 1d8 caso termine adjacente. FOR nega. Melhoria: +1d8 aos níveis 5, 11 e 17.
+
+Lâmina da Chama Verde (V, M): Faz um ataque armado corpo-a-corpo. Caso acerte, criatura adjacente ao alvo sofre dano igual à sua chave de conjuração. Melhoria: +1d8 dano inicial e dano que salta aos níveis 5, 11 e 17.
+
+Lâmina Estrondosa (V, M): Faz um ataque armado corpo-a-corpo. Caso acerte, alvo fica banhado em energia até o começo de seu próximo turno. Caso alvo se mova por vontade própria até lá sofre 1d8 trovejante e a magia acaba. Melhoria: +1d8 dano inicial e ao se mover aos níveis 5, 11 e 17.
+
+Luz (V, G): Objeto tocado emana luz brilhante em raio de 6m e luz baixa em mais 6m. Se objeto é segurado por criatura, recebe DES para evitar. 1 hora.
+
+Palavra do Esplendor (V, M): Criaturas adjacentes sofrem 1d6 radiante. CON nega. Melhoria: +1d6 aos níveis 5, 11 e 17.
+Raio de Gelo (V, G): Ataque a distância de 18m causa 1d8 frio e diminui deslocamento de alvo em 3m por 1 turno. Melhoria: +1d8 aos níveis 5, 11 e 17.
+
+Rajada Mística (V, G): Ataque contra alvo a até 36m causa 1d10 energia. Melhoria: +1 disparo ao nível 5, 11 e 17.
+
+Toque Chocante (V, G): Ataque causa 1d8 elétrico e não pode usar Reações por 1 turno. Tem Vantagem contra usuários de armadura de metal. Melhoria: +1d8 aos níveis 5, 11 e 17.
+
+Trovoada (G): Criaturas adjacentes sofrem 1d6 trovejante. Também gera trovão audível a até 30m. CON nega. Melhoria: +1d6 aos níveis 5, 11 e 17.
+
+Ilusão
+Ilusão Menor (V, G, M): Gera ilusão visual de até 1,5m cúbico, ou sonora, a até 9m. Investigação vs CD detecta ilusão. 1 minuto.
+
+
+Necromancia
+Poupar os Moribundos (V, G): Alvo tocado com 0 PA fica estável.
+
+Sinos dos Mortos (V, G): Alvo a até 18m sofre 1d8 necrótico, 1d12 se já tiver dano. SAB nega. Melhoria: +1 dado aos níveis 5, 11 e 17.
+
+Toque Gélido (V, G): Ataque a até 36m causa 1d8 necrótico e alvo não pode recuperar PA até seu próximo turno. Morto-vivo acertado também sofre Desvantagem para ataques até o final de seu próximo turno. Melhoria: +1d8 aos níveis 5, 11 e 17.
+
+
+Transmutação
+Chicote de Espinhos (V, G, M): Ataque corpo a corpo a 9m causa 1d6 perfurante e puxa alvo Grande ou menor 3m mais perto. Melhoria: +1d6 aos níveis 5, 11 e 17.
+
+Consertar (V, G): Objeto menor que um cubo de 1,5m é recuperado de um único dano. Conjuração 1 minuto.
+
+Controlar Chamas (G): Afeta chama de até 1,5m³ a até 18m de uma das seguintes formas: Expande em uma direção, desde que haja combustível; extingue a chama; dobra ou diminui pela metade área de luz da chama, muda sua cor ou ambos, por 1 hora; cria formas simples dentro da chama, por 1 hora. Pode ter até três efeitos desse ativos ao mesmo tempo.
+
+Lufada (V, G): Gera um dos seguintes efeitos a até 9m: Alvo é empurrado 1,5m para longe (FOR nega); objeto solto é empurrado 3m; cria um efeito inofensivo envolvendo ar.
+Mensagem (V, G, M): Alvo a até 36m ouve seu sussurro e pode responder.
+
+Moldar Água (G): Afeta água de até 1,5m³ a até 18m de uma das seguintes formas: Move ou muda curso em 1,5m; cria formas, por 1 hora; muda cor ou opacidade, por 1 hora; congela água, poor 1 hora. Pode ter até dois efeitos desse ativos ao mesmo tempo.
+
+Moldar Terra (G): Afeta terra ou pedra de até 1,5m³ a até 18m de uma das seguintes formas: Escava e deposita adjacente; cria imagens, formatos e cores, por 1 hora; transforma em terreno ruim ou normal, por 1 hora. Pode ter até dois efeitos desse ativos ao mesmo tempo.
+
+Ofício Druidico (V, G): Gera um dos seguintes efeitos a até 9m: Gera um efeito ilusório que prevê o clima nas próximas 24h; gera até 5 fagulhas com luz baixa em raio de 1,5m, podendo movê-los no alcance; faz uma planta brotar ou desabrochar; objeto natural rola, voa ou semelhante até 9m em uma direção cardinal; gera efeito sensório inofensivo como cheiro de terra molhada ou uma brisa; acende ou apaga uma chama pequena.
+
+Pedra Mágica (V, G): Três pedras tocadas podem ser arremessadas a 18m. Pedras usam seu ataque mágico e causam 1d6+Chave. Pode ter no máximo 3 pedras encantadas ao mesmo tempo. 1 minuto. Magia bônus.
+Prestidigitação (V, G): Gera um efeito menor, como limpar ou sujar um item, um efeito sensório inofensivo, acender ou apagar uma chama, colorir, dar sabor etc. Efeitos permanecem por no máximo 1 hora.
+
+Selvageria Primitiva (G): Ataque corpo a corpo causa 1d10 ácido. Melhoria: +1d10 aos níveis 5, 11 e 17.
+
+Shillelagh (V, G, M): Ataca com porrete ou cajado usando Chave ao invés de FOR, causando 1d8+Chave esmagamento e contando como mágico. 1 minuto. Magia de Ação Bônus.
+
+Taumaturgia (V): Gera um milagre menor, como elevar sua voz para três vezes o normal, chamas balançarem ou mudarem de cor, vidro quebrar ou tecido rasgar ou queimar, gera um som a até 9m, porta ou janela abrir ou fechar, seus olhos mudarem de cor, ou algum outro efeito do tipo.
+
+
+
+Nível 1
+
+Abjuração
+Absorver Elementos (G): Recebe Resistência contra o elemento até começo do próximo turno. Adicionalmente seu primeiro acerto corpo-a-corpo no próximo turno causa +1d6 do elemento. Melhoria: +1d6 dano extra / nível acima. Magia de Reação.
+Alarme (V, G, M) [Ritual]: Área de 6m de raio a 9m fica protegida de intrusão de criaturas não-designadas. Caso criatura miúda ou maior entre, faz alarme audível, alto como um sino de mão, a 18m e por 10 segundos, ou mental a 1 milha (sua escolha). Conjuração 1 minuto. 8 horas.
+
+Armadilha (V, G, M): Raio de 1,5m tocado torna-se armadilha com CD de detecção igual magia. É ativada quando criatura pequena, média ou grande entra na área, ficando magicamente Presa a 1m do solo. DES nega, e novamente ao fim de cada turno. Com ação criatura ou outra pode fazer Arcanismo contra CD para libertar criatura. Material corda. 8 horas. Conjuração 1 minuto.
+
+Armadura de Agathys (V, G, M): Você recebe 5 PA temporários. Atacantes corpo-a-corpo sofre 5 frio ao lhe acertar. 1 hora ou até descarregar. Melhoria: +5 PA e dano / nível acima.
+
+Armadura Arcana (V, G, M): Alvo tocado sem armadura recebe valor de armadura 3. Acaba antes caso alvo vista armadura. 8 horas.
+
+Cerimônia (V, G, M) [Ritual]: Escolhe um dos seguintes efeitos: Redenção: Faz Intuição CD 20, se passar voluntário tocado retorna à sua tendência original. Abençoar Água: Cria água benta. Passagem Adulta: Adulto jovem tocado recebe +1d4 para testes por 24 horas. Só pode se beneficiar dessa opção uma vez na vida. Dedicação: Voluntário que deseja se dedicar para sua divindade recebe +1d4 para resistências por 24 horas. Só pode se beneficiar dessa opção uma vez na vida. Rito Funerário: Cadáver tocado não pode ser transformado em morto-vivo exceto por Desejo, por uma semana. Casamento: Dois adultos tocados que desejam se casar recebem +2 CA quando a até 9m um do outro pelos próximos 7 dias. Só pode se beneficiar dessa opção novamente se ficar viúvo. Material 25po. Conjuração 1 hora.
+
+Escudo (V, G): Conjura ao ser acertado, com uma Reação. Recebe +5 para CA contra esse ataque e até o começo de seu próximo turno, além de se tornar imune a dano de Mísseis Mágicos.
+
+Escudo da Fé (V, G, M): Alvo a até 18m recebe +2 para CA. Concentração, max10 minutos. Magia de Ação Bônus.
+
+Proteção contra Tendência (V, G, M): Alvo tocado recebe diversas vantagens contra Elementais, Fadas, Infernais e mortos-vivos de tendência oposta: Elas sofrem Desvantagem para ataque contra ele, não pode ser enfeitiçado, assustado ou possuído por elas, e caso já esteja efeito é suprimido. Concentração, max 10 minutos.
+
+Santuário (V, G, M): Alvo a até 9m é protegido de ataques. Atacantes não consegue atacá-lo e precisam escolher outro alvo. Caso alvo ataque de alguma forma magia acaba. SAB nega. 1 minuto. Magia de Ação Bônus.
+
+
+Adivinhação
+Compreender Idiomas (V, G, M) [Ritual]: Você entende todos os idiomas falados, e todos os escritos desde que toque a fonte escrita. 1 hora.
+
+Detectar Bem e Mal (V, G): É capaz de detectar a presença de aberrações, fadas, elementais, celestiais, infernais e mortos-vivos a até 9m, bem como sua localização. Também detecta a presença de locais e objetos consagrados ou conspurcados. É bloqueada por obstáculos. Concentração, max 10 minutos.
+
+Detectar Magia (V, G) [Ritual]: É capaz de sentir auras mágicas em raio de 9m. Você vê uma aura em volta de criaturas e objetos encantados, e pode discernir sua escola. É bloqueada por obstáculos. Concentração, max 10 minutos.
+
+Detectar Veneno e Doença (V, G, M) [Ritual]: É capaz de sentir veneno, doença ou criaturas venenosas em raio de 9m, bem como identificar que tipo de doença, veneno ou criatura. É bloqueada por obstáculos. Concentração, max 10 minutos.
+
+Elo de Besta (V, G, M): Cria elo com Besta tocada, amistosa ou enfeitiçada, de INT 3 ou menos. Pela duração você pode se comunicar telepaticamente com ela, e ela empaticamente com você. Besta também recebe Vantagem em ataques contra criaturas adjacentes a você que possa ver. Concentração, max 10 minutos.
+Falar com Animais (V, G) [Ritual]: Pela duração você pode falar com Bestas. 10 minutos.
+
+Identificação (V, G, M) [Ritual]: Aprende todas as propriedades de item mágico, e lendas em relação a ele. Qualquer objeto tocado pode ser alvo, incluindo proteções mágicas ou escritas com poder arcano. Alternativamente pode tocar criatura para descobrir todas as magias a afetando. Foco pérola 100po. Conjuração 1 minuto.
+
+Marca do Caçador (V): Alvo a até 27m sofre +1d6 de dano por você e você recebe Vantagem para Percepção e Investigação contra ela. Caso alvo caia a 0 com magia ainda ativa pode usar Ação Bônus para redirecionar a outra criatura. Magia de Ação Bônus. Concentração, max 1 hora. Melhoria: Max 8 horas nível 3, max 24 horas nível 5.
+
+
+Conjuração
+Área Escorregadia (V, G, M): Área de 3m de raio a até 18m torna-se terreno difícil e derruba criaturas na área (DES nega), que entrem nela ou terminem o turno nela. DES nega. 1 minuto.
+
+Braços de Hadar (V, G): Criaturas em 3m de raio em volta de você sofrem 2d6 necrótico e não podem fazer Reações até o começo de seus turnos. CON metade e nega efeito. Melhoria: +1d6 / nível acima.
+
+Constrição (V, G): Raio de 6m a até 27m cresce vinhas que prendem criaturas e gera terreno ruim. A cada turno preso pode fazer teste de FOR para se soltar. FOR nega. Concentração, max 1 minuto.
+
+Disco Flutuante (V, G, M) [Ritual]: Disco de energia a até 9m sustenta até 250kg e te segue permanecendo sempre a até 6m de você. Magia acaba caso se afaste mais de 30m do disco. 1 hora.
+
+Encontrar Familiar (V, G, M): Recebe um familiar entre morcego, gato, caranguejo, sapo, falcão, lagarto, polvo, coruja, cobra, peixe, rato, corvo, cavalo marinho, aranha ou furão. Possui as estatísticas normais, mas é um celestial, fada ou infernal ao invés de uma Besta. O familiar age de forma independente, mas não pode fazer ataques. Desde que a até 30m do familiar pode se comunicar telepaticamente com ele, e quando faz uma magia de toque familiar pode entregá-la por você, usando seu ataque. Com uma ação perceber por seus sentidos por um turno, ou dispensá-lo temporária ou permanentemente. Só pode ter um único familiar ao mesmo tempo, e caso conjure novamente pode mudar a forma do familiar. Material 100po. 
+
+Faca de Gelo (G, M): Ataque a distância causa 1d10 perfurante. Acertando ou errando alvo e criaturas a adjacentes sofrem 2d6 frio. DES nega dano de frio. Melhoria: +1d6 frio / nível acima.
+Golpe Prendedor (V): o acerto ativa vinhas que prendem alvo até grande no local, ao começo de cada turno causa 1d6 perfurante. FOR nega, e novamente ao fim de cada turno. Concentração, max 1 minuto. Melhoria: +1d6 / nível acima.
+
+Neblina (V, G): Cria neblina em raio de 6m a até 36m, causando obscurecimento pesado. Concentração, max 1 hora. Melhoria: +6m de raio / nível acima.
+
+Rajada de Espinhos (V): Próximo acerto à distância causa +1d10 perfurante no alvo e criaturas adjacentes. DES metade. Magia de Ação Bônus. Concentração, max 1 minuto. Melhoria: +1d10 / nível acima.
+
+Servo Invisível (V, G, M) [Ritual]: Construto de energia a até 18m obedece comandos mentais e pode se mover 4,5m por turno, realizando funções simples. 1 hora.
+
+
+Encantamento
+Amizade Animal (V, G, M): Besta a até 9m com INT até 4 é Enfeitiçada (SAB nega). 24 horas. Melhoria: +1 Besta / nível acima.
+
+Bênção (V, G, M): Aliados a até 9m adicionam +1d4 a todos os ataques e testes de resistência. Concentração, max 1 minuto. Melhoria: +1 alvo / nível acima.
+
+Bruxaria (V, G, M): Alvo a até 27m sofre Desvantagem em testes de um atributo escolhido, e sofre +1d6 necrótico de ataques seus. Caso alvo seja derrubado a 0 pode usar uma Ação Bônus para redirecionar a outra criatura. Concentração, max 1 hora. Melhoria: Max 8 horas com nível 3, max 24 horas com nível 5.
+
+Comando (V): Alvo a até 18m obedece um comando de uma única palavra por 1 turno. SAB nega. Melhoria: +1 alvo / nível acima.
+
+Compelir Duelo (V): Alvo a até 9m sofre Desvantagem para ataques contra criaturas que não você e deve passar em resistência de SAB todo turno em que quiser se mover para mais longe do que 9m de você. Magia acaba caso ataque outro alvo, alvo sofra dano por um de seus aliados, ou você termine seu turno a mais de 9m do alvo. Magia de Ação Bônus. Concentração, max 1 minuto.
+
+Enfeitiçar Pessoa (V, G): Humanoide a até 9m é Enfeitiçado. Ao final alvo sabe que foi enfeitiçado. SAB nega, com vantagem se você ou seus aliados estiverem o enfrentando. 1 hora ou até sofrer efeito negativo por você ou seus aliados. 1 hora. Melhoria: +1 alvo / nível acima.
+
+Heroísmo (V, G): Alvo tocado torna-se imune a medo e recebe Chave PA temporários todo turno. Concentração, max 1 minuto. Melhoria: +1 alvo / nível acima.
+
+Perdição (V, G, M): Até 3 alvos a até 9m recebem -1d4 para ataques e testes de resistência. CAR nega. Concentração, max 1 minuto. Melhoria: +1 alvo / nível acima.
+
+Risada Histérica (V, G, M): Alvo inteligente a até 9m cai, fica incapacitado e incapaz de se levantar. SAB nega, e novamente ao final de cada turno e ao sofrer dano (no caso de dano com Vantagem). Concentração, max 1 minuto.
+
+Sono (V, G, M): Área de 6m a até 27m coloca criaturas par dormir. Role 5d8, esse é o total de PA afetados, começando por criaturas com menor PA atual. Um alvo dorme pela duração, até sofrer dano ou ser acordado. 1 minuto. Melhoria: +2d8 / nível acima.
+
+Sussurros Dissonantes (V): Alvo a até 18m sofre 3d6 psíquico e imediatamente deve usar Reação para se mover o mais longe possível.  Criaturas surdas são imunes. SAB metade e nega efeito. Melhoria: +1d6 / nível acima.
+
+
+Evocação
+Auxílio Divino (V, G): Você causa +1d4 radiante com armas. Magia de Ação Bônus. Concentração, max 1 minuto.
+
+Curar Ferimentos (V, G): Alvo tocado é curado 1d8 + Chave. Melhoria: +1d8 / nível acima.
+
+Destruição Lancinante (V): Próximo acerto causa +1d6 fogo e 1d6 adicional no começo de cada turno do alvo. CON nega a cada turno. Magia de Ação Bônus. Concentração, max 1 minuto. Melhoria: +1d6 dano inicial / nível acima.
+
+Destruição Colérica (V): Próximo acerto ataque corpo a corpo armado, causa +1d6 psíquico e deixa alvo Assustado. SAB nega condição; pode tentar novamente com uma ação. Concentração, max 1 minuto. Magia de Ação Bônus.
+
+Destruição Trovejante (V): Próximo acerto corpo a corpo armado, faz trovão alto audível a 90m e causa +2d6 trovejante além de derrubar alvo a 3m de distância. CON nega condição. Concentração, max 1 minuto.
+
+Disparo da Bruxa: Ataque à distância de 9m causa 1d12 elétrico, e a cada turno seguinte pode usar a ação para sustentar a magia e causar +1d12. Magia acaba caso não seja sustentada. Concentração, max 1 minuto. Melhoria: Dano inicial +1d12 / nível acima.
+
+Disparo do Caos (V, G): Ataque a 36m causa 2d8 + 1d6. Escolha um dos d8; número indica tipo do dano: 1 – Ácido; 2 – Frio; 3 – Fogo; 4 – Energia; 5 – Eletricidade; 6 – Veneno; 7 – Psíquico; 8 – Trovejante. Se ambos os d8 rolarem o mesmo valor, faça um novo ataque e dano contra outro alvo a até 9m, o que pode gerar outro ataque. Um alvo só pode ser afetado por um ataque. Melhoria: +1d6 / nível acima.
+
+Disparo Guia (V, G): Ataca alvo a até 36m. Caso acerte causa 4d6 radiante e próximo ataque feito contra alvo no próximo turno tem Vantagem. Melhoria: +1d6 / nível acima.
+
+Esfera Cromática (V, G, M): Ataque a 27m causa 3d8 de um elemento ou veneno. Foco diamante 50po. Melhoria: +1d8 / nível acima.
+
+Fogo Feérico (V): Criaturas e objetos em raio de 3m a até 18m são iluminados e lançam luz baixa em raio de 3m. Ataques contra criaturas marcadas têm Vantagem, e criatura não se beneficia de invisibilidade. DES nega. Concentração, max 1 minuto.
+
+Mãos Flamejantes (V, G): Cone de 4,5m causa 3d6 de fogo (DES metade) e incendeia objetos soltos. Melhoria: +1d6 / nível acima.
+
+Mísseis Mágicos (V, G): Cria três dardos com 36m de alcance e que acertam sem erro, causando 1d4+1 de energia cada. Melhoria: +1 dardo / nível acima.
+
+Onda de Trovão (V, G): Cone de 4,5m causa 2d8 trovejante e empurra afetados 3m, além de empurrar objetos soltos e emitir trovão audível a até 90m. CON metade e nega empurrão. Melhoria: +1d8 / nível acima.
+
+Palavra da Cura (V): Alvo a até 18m cura 1d4+Chave. Magia de Ação Bônus. Melhoria: +1d4 / nível acima.
+
+Repreensão Infernal (V, G): Ao sofrer dano de uma criatura a até 18m conjura com uma Reação. Alvo sofre 2d10 de fogo. DES metade. Melhoria: +1d10 / nível acima.
+
+Tremor de Terra (V, G): Criaturas que não você em raio de 3m sofrem 1d6 esmagamento e são derrubadas. Caso chão seja de terra ou pedra torna-se terreno ruim até ser limpo. DES nega dano e condição. Melhoria: +1d6/nível acima.
+
+Ilusão
+Disfarçar-se (V, G): Disfarça sua aparência, inclusive equipamento. Mudanças são à sua escolha, mas não pode parecer mais do que 30m mais alto ou mais baixo. Inspecionar você permite Investigação para notar a ilusão. 1 hora. 
+
+Escrita Ilusória (G, M) [Ritual]: Para você escrita que cria com a magia é normal; para todos os outros parece escrito em idioma desconhecido ou mágico, ou uma mensagem completamente diferente e em outra caligrafia. 10 dias. Material 10po. Conjuração 1 minuto.
+
+Imagem Silenciosa (V, G, M): Gera ilusão de até tamanho Médio a até 18m. Pode usar sua ação para mover ou modificar a ilusão. Concentração, max 10 minutos.
+
+Spray de Cores (V, G, M): Afeta até 6d10 PA de criaturas, começando pela com menos PA atual, em cone de 4,5m ficam cegos por 1 turno. Melhoria: +2d10 / nível acima.
+
+
+Necromancia
+Causar Medo (V): Alvo a 18m fica Assustado. Resistência de SAB nega, e novamente ao fim de cada turno. Construtos e mortos-vivos são imunes. Melhoria: +1 alvo a até 9m / nível acima.
+
+Infligir Ferimentos (V, G): Ataque causa 3d10 necrótico. Melhoria: +1d10 / nível acima.
+
+Raio do Enjôo (V, G): Ataque a distância de 18m causa 2d8 veneno e deixa alvo Envenenado por 1 turno. CON nega condição. Melhoria: +1d8 / nível acima.
+
+Vida Falsa (V, G, M): Recebem 1d4+4 PA temporários. 1 hora. Melhoria: +5 PA / nível superior.
+
+
+Transmutação
+Bom Fruto (V, G, M): Até 10 cerejas tocadas alimentam uma criatura média como uma refeição e curam 1PA. 24h.
+
+Catapultar (G): Um objeto solto de até 2,5kg a até 45m voa até 27m em uma direção antes de cair. Caso acerte uma criatura ele para e alvo sofre 3d8 esmagamento. DES nega. Melhoria: +2,5kg e +1d8 / nível acima.
+
+Criar ou Destruir Água (V, G, M): Criar: Cria até 40l de água em recipientes abertos ou como chuva em raio de 9m. Destruir: Destrói até 40l de água de reservatórios ou neblina em um cubo de 9m. Melhoria: +40l / nível acima.
+
+Golpe do Zéfiro (V): Pela duração seu movimento não provoca ataques de oportunidade. Pode descarregar magia para receber vantagem para um ataque armado, que também causa +1d8 energia, e então receber +9m de movimento pelo resto do turno. Concentração, máx 1 minuto. Magia de ação bônus.
+
+Passolargo (V, G, M): Alvo tocado recebe +3m de deslocamento. 1 hora.
+
+Purificar Alimentos (V, G) [Ritual]: Todo alimento e bebida não-mágico em raio de 1,5m a até 3m é purificada.
+
+Queda Suave (V, G): Até cinco criaturas a até 18m caem lentamente pela duração. 1 minuto. Reação.
+
+Recuo Acelerado (V, G): Pela duração você pode fazer a ação Corrida com uma Ação Bônus. Magia de Ação Bônus. Concentração, max 10 minutos.
+
+Salto (V, G, M): Alvo tocado pode saltar o triplo da distância. 1 minuto.
+
+
+
+Nível 2
+
+Abjuração
+Ajuda (V, G, M): Três criaturas a até 9m recebem +5 PA e PA máximo. 8 horas. Melhoria: +5PA / nível acima.
+
+Elo Protetor (V, G, M): Gera conexão entre você e voluntário enquanto usarem os anéis. Alvo recebe +1 CA e testes de resistência, e Resistência a todo dano enquanto estiver a até 15m de você, porém sempre que alvo sofrer dano, você sofre quantidade igual. Só pode ter um efeito desses ativo ao mesmo tempo. Foco dois anéis 50po cada. 1 hora.
+
+Passos sem Pegadas (V, G, M): Aliados até 9m não deixam rastros em terreno mundano e recebem +10 Furtividade. Concentração, max 1 hora.
+
+Proteção contra Veneno (V, G): Alvo tocado recebe Vantagem em resistência contra veneno, recebe Resistência contra dano de veneno, e um veneno o afetando é neutralizado. 1 hora.
+
+Restauração Menor (V, G): Alvo tocado recebe um dos seguintes benefícios: Remover Cegueira/Surdez; Remover Doença; Remover Paralisia. Todos os usos removem apenas um efeito.
+
+Tranca Arcana (V, G, M): Tranca um objeto tocado. Você e criaturas designadas podem abrir normalmente, bem como senha que suprime por 1 minuto. Aumenta a CD para abrir e quebrar em 10. Permanente. Material 25po em prata.
+
+
+Adivinhação
+Augúrio (V, G, M) [Ritual]: Descreva uma ação que pretende tomar em até 30 minutos. Adivinhação garante uma resposta sobre os resultados dessa ação entre Bom, Mau, Bom e Mau ou Nada. Caso conjurado uma segunda vez no mesmo dia tem 25% cumulativo de sair resposta aleatória. Material 25pp. Conjuração 1 minuto.
+
+Detectar Pensamentos (V, G, M): Lê os pensamentos de criaturas a até 9m. A cada turno pode se focar em uma criatura diferente, lendo seus pensamentos superficiais, ou foca-se mais a fundo em uma criatura já lida, recebendo informação sobre seu estado emocional, algo que se importa ou que esteja tentando esconder de você (INT nega e termina a magia). Fazer o alvo pensar sobre um assunto ajuda a encontrar informações específicas. Também pode ser usada para buscar mentes pensantes ocultas; com uma ação procura pensamentos a até 9m, e uma vez localizados pode os ler mesmo que não veja a criatura. Concentração, max 1 minuto.
+
+Encontrar Armadilhas (V, G): Descobre a presença e natureza de todas as armadilhas em linha de visão a até 18m, mas não sua localização. 
+
+Espinho Mental (V): Alvo a até 18m sofre 3d8 psíquico. Você sabe a localização do alvo e ele não pode ficar oculto de você pela duração. INT metade e nega efeito. Concentração, máx 1 hora.
+
+Localizar Animais e Plantas (V, G, M) [Ritual]: Descreva ou nomeie um tipo específico de Besta ou planta; você descobre a direção e distância da criatura ou planta escolhida mais próxima a até 5 milhas.
+
+Localizar Objeto (V, G, M): Descreva ou nomeie um objeto familiar a você; você descobre a direção e distância do objeto desde que esteja a até 300m, bem como a direção em que ele está se movendo. A magia pode detectar um objeto específico ou um tipo genérico, desde que tenha visto o objeto de perto (pelo menos 9m) ao menos uma vez. É impossível localizar um objeto caso haja ao menos uma fina camada de chumbo entre você e ele. Concentração, max 10 minutos.
+
+Ver Invisibilidade (V, G, M): Você pode ver criaturas e objetos invisíveis e incorpóreos. 1 hora.
+
+
+Conjuração
+Encontrar Montaria (V, G): Invoca um espírito que toma forma de uma montaria fiel. Usa as estatísticas da criatura escolhida (exemplo: cavalo de guerra, pônei, camelo, mastim ou alce), mas é um celestial, fada ou infernal ao invés de seu tipo normal, e caso possua INT menor que 6 torna-se 6. Você e sua montaria possuem um elo telepático de 1 milha, e enquanto estiver montado nela pode escolher que magias conjuradas por você afetem ela também. Pode dispensar temporariamente e invocar montaria com uma ação, e ela é dispensada ao cair a 0. Conjurar a magia novamente a invoca com seus PA cheios. Permanente.
+
+Espírito Curativo (V, G): Espírito aparece a até 18m. Quando criatura entra na área ou começa turno nela, você pode fazer com que seja curada 1d6. Com ação bônus pode mover espírito até 9m. Concentração, máx 1 minuto. Magia de ação bônus. Melhoria: +1d6 / nível acima.
+
+Nuvem de Adagas (V, G, M): Adagas em quadrado a até 18m causam 4d4 cortante a criaturas que entre no espaço ou comecem o turno nele. Concentração, max 1 minuto. Melhoria: +2d4 / nível acima.
+
+Passo da Neblina (V): Teletransporta-se a até 9m. Magia de Ação Bônus.
+
+Redemoinho de Poeira (V, G, M): Cubo de ar de 1,5m, desocupado, a até 18m, causa 1d8 esmagamento e empurra 3m criaturas que terminem o turno nele ou adjacente. Com uma ação pode mover área até 9m. Caso passe por areia, pó ou terra solta cria nuvem de detritos de 3m que impõe Obscurecimento Pesado e dura até começo do próximo turno. FOR metade e nega empurrão. Concentração, máx 1 minuto. Melhoria: +1d8/nível acima.
+Teia (V, G, M): Teia em raio de 6m a até 18m gera terreno ruim e obscurecimento leve. Criaturas que entrem na teia ou comecem o turno nela ficam presas até se soltar; criatura presa pode tentar se soltar com FOR. As teias são inflamáveis e quando queimando causam 2d4 de fogo. DES nega. Concentração, max 1 hora.
+
+
+Encantamento
+Acalmar Emoções (V, G): Humanoides em raio de 6m a 18m tem efeitos de Feitiço e Medo suprimidos; ou tornam-se indiferentes para criaturas hostis até serem atacadas ou presenciar um aliado ser atacado. CAR nega. Concentração, max 1 minuto.
+
+Cativar (V, G): Alvos a até 18m são sofrem Desvantagem em Percepção para notar criaturas que não você, enquanto puderem lhe ver. SAB nega, com Vantagem se você ou seus companheiros estiverem o enfrentando. 1 minuto, mas precisa continuar falando.
+
+Coroa de Loucura (V, G): Criatura a até 36m é enfeitiçada. Enquanto enfeitiçada deve usar a ação, antes de se mover, para atacar uma criatura a alcance designada por você. Caso não designe uma criatura ou não haja criaturas ao alcance, pode agir normalmente. Em turnos seguintes você deve gastar uma ação para ordená-la. SAB nega, e novamente ao fim de cada turno. Concentração, max 1 minuto.
+
+Imobilizar Pessoa (V, G, M): Humanoide a até 27m fica paralisado. Ao final de cada turno alvo pode tentar um novo teste de resistência. SAB nega. Concentração, max 1 minuto.
+
+Sugestão (V, M): Sugere curso de atividade plausível a alvo até 9m, que a segue pelo período da magia ou até completar a sugestão. SAB nega. Concentração, max 8 horas.
+
+Zona da Verdade (V, G): Área de raio 4,5m a até 18m impede criaturas que entrem nela ou comecem seu turno nela consigam falar mentiras. 10 minutos. CAR nega, mas você sabe quem passou e falhou.
+
+
+Evocação
+Arma Espiritual (V, G): Arma de energia surge a até 18m e ataca oponentes adjacentes, causando 1d8 + Chave energia. Como parte de sua ação pode mover arma até 6m. 1 minuto. Melhoria: +1d8 / 2 níveis acima.
+
+Chama Contínua (V, G, M): Gera uma chama como de uma tocha, permanente e sem calor. Não pode ser assoprada ou encharcada. Material 50po.
+
+Destruição Marcante (V): Próximo acerto causa +2d6, dissipa invisibilidade, alvo emana luz baixa em 1,5m e não pode ficar invisível pela duração. Concentração, max 1 minuto. Magia de Ação Bônus. Melhoria: +1d6 / nível acima.
+
+Enxame de Bolas de Neve (V, G, M): Criaturas em raio de 1,5m a até 27m sofrem 3d6 frio. DES metade. Melhoria: +1d6/nível acima.
+Escuridão (V, M): Gera escuridão sobrenatural em raio de 4,5m a até 18m. Concentração, max 10 minutos.
+
+Esfera Flamejante (V, G, M): Esfera de fogo ocupa um espaço a até 18m, com luz brilhante 6m mais 6m de luz baixa. Criaturas que comecem o turno no espaço ou adjacentes sofrem 2d6 fogo. Com uma ação pode mover esfera 9m, parando se entrar no espaço de outra criatura. DES metade. Melhoria: +1d6/nível acima.
+
+Esmigalhar (V, G, M): Explosão de 3m de raio a 18m causa 3d8 de trovão. CON metade, com Desvantagem para criaturas não-vivas feitas de material inorgânico. Melhoria: +1d8 / nível acima.
+
+Espada de Chamas (V, G, M): Gera uma espada de chama em mão livre que gera luz brilhante em raio de 3m e luz baixa em mais 3m. Ataques com espada causam 3d6 fogo. Melhoria: +1d8 / 2 níveis acima.
+
+Flecha Ácida (V, G, M): Ataque contra alvo a até 27m causa 4d4 ácido e 2d4 no fim do turno do alvo, metade do inicial caso erre. Melhoria: +1d4 ambos os danos / nível acima.
+
+Lufada de Vento (V, G, M): Linha de vento de 3m de largura e 18m de comprimento gera vento de 45km/h e empurra criaturas 4,5m. Vento extingue velas, tochas e chamas similares. FOR nega. Com uma ação bônus pode mudar direção. Concentração, max 1 minuto.
+
+Oração de Cura (V): Até 6 alvos a até 9m curam 2d8+Chave. Conjuração 10 minutos. Melhoria: +1d8 / nível acima.
+
+Queimador do Mago (V, G, M): Linha de 9m causa 3d8 de fogo. DES metade. Melhoria: +1d8/nível acima.
+Raio Ardente (V, G, M): Três ataques com alcance de 36m causam 2d6 fogo cada. Melhoria: +1 raio / nível acima.
+
+Raio de Lua (V, G, M): Raio de 1,5m e 12m de altura, a até 18m gera luz baixa. Criaturas que entrem na luz ou comecem seu turno nela sofrem 2d10 radiante. Com uma ação pode mover luz até 18m. CON metade, metamorfos com desvantagem, e caso falhem revertem à forma natural. Melhoria: +1d10 nível acima.
+
+Vento Protetor (V): Vento forte sopra em área móvel de 3m em volta de você. O vento tem os seguintes efeitos: Ensurdece você e criaturas na área; extingue chamas de tocha ou menores que estejam desprotegidas; é terreno ruim para outras criaturas; ataques a distância tem Desvantagem ao passar; afasta gases, vapores e fumaça afetados por vento forte. Concentração, max 10 minutos.
+
+
+Ilusão
+Aura Mágica (V, G, M): Objeto solto ou voluntário tocado recebe um dos seguintes efeitos. Aura Falsa: Modifica aura mágica, adicionando, retirando ou modificando; Mascarar: Modifica aura de tendência; Obscurecer: Não pode ser notado por sensores de espionagem. 24 horas, mas pode se tornar permanente se conjurado mesmo efeito no mesmo alvo por 1 ano e um dia.
+
+Boca Mágica (V, G, M) [Ritual]: Objeto a até 9m grava mensagem de até 1 minuto e 25 palavras, e repete essa mensagem uma vez quando condições especificadas na conjuração ocorrem. Permanente. Material 10po. Conjuração 1 minuto.
+
+Força Fantasmagórica (V, G, M): Gera ilusão diretamente na mente de alvo a até 18m. Alvo afetado acredita tanto na ilusão que racionaliza interação falsa, e ilusão pode até mesmo causar dano (1d6 a cada turno) caso apropriado. INT nega, e novamente a cada turno, gastando uma ação. Concentração, max 1 minuto.
+
+Invisibilidade (V, G, M): Alvo tocado fica invisível. Acaba antes caso alvo ataque ou conjure uma magia. Concentração, max 1h. Melhoria: +1 alvo / nível acima.
+
+Lâmina Sombria (V, G): Gera arma de sombra Simples, Leve, Ágil e Arremesso 6/18, que causa 2d8 psíquico. Quando ataca com ela em luz baixa ou escuridão recebe Vantagem. Caso arremesse ou derrube pode invocar outra com ação bônus. Concentração, max 1 minuto. Melhoria: 3d8 com nível 3-4; 4d8 com 5-6; 5d8 com 7+. Magia de ação bônus.
+
+Nublar (V): Oponentes sofre Desvantagem em ataques contra você, se depender de visão. Concentração, max 1 minuto.
+
+Reflexos (V, G): Gera três cópias de você que imitam seus movimentos. Sempre que é afetado por um efeito de alvo efeito pode acertar uma das cópias. Cópias possuem CA 10 + DES, usam seus testes de resistência, e são destruídas ao serem acertadas por um ataque ou falharem em resistência contra um efeito que cause dano. 1 minuto.
+
+Silencio (V, G) [Ritual]: Área de 6m de raio a até 36m não deixa som passar para dentro, fora, ou através. Criaturas dentro são imunes a dano trovejante. Conjurar magias com componentes verbais em uma área de silêncio é impossível. Concentração, max 10 minutos.
+
+
+Necromancia
+Cegueira/Surdez (V): Um alvo a até 9m fica cego ou surdo. CON nega, e de novo a cada turno. 1 minuto. Melhoria: +1 alvo / nível acima.
+
+Descanso Tranquilo (V, G, M) [Ritual]: Cadáver tocado não apodrece nem pode ser transformado em morto-vivo. Período sob efeito dessa magia não conta para tempo limite de ressurreições. 10 dias.
+
+Raio do Enfraquecimento (V, G): Ataque a distância de 18m faz com que ataques de FOR do alvo causam metade do dano. CON ao final de cada turno finaliza. 1 minuto.
+
+
+Transmutação
+Alterar-se (V, G): Você assume uma outra forma. Escolha uma das opções: Adaptação Aquática: Pode respirar água e nadar em deslocamento normal. Mudar Aparência: Muda todas suas qualidades físicas, inclusive copiando alguém. Pode mudar a forma pela duração. Arma Natural: Ataque desarmado causa 1d6, conta como mágico, recebe proficiência e melhoria mágica de +1. Concentração, max 1 hora.
+
+Aperto Terreno (V, G, M): Mãos de terra em quadrado desocupado a até 9m causa 2d6 esmagamento em criatura adjacente e a prende pela duração. Com uma ação mão causa 2d6 em alvo preso, ataca outro alvo, ou se move a outro quadrado ao alcance. FOR nega dano e aperto inicial, metade dano adicional. Alvo pode fazer teste de FOR em seu turno para se soltar. Concentração, max 1 minuto.
+Aquecer Metal (V, G, M): Um objeto de metal a até 18m fica quente vermelho. Alvo segurando o item sofre 3d8 de fogo e solta o item caso possa (CON nega derrubar item). Se for um item que não pode ser solto alvo sofre Desvantagem em ataques e testes. Pode usar uma ação bônus cada turno para causar dano de novo. Concentração, max 1 minuto. Melhoria: +1d8 / nível acima.
+
+Arma Mágica (V, G): Arma não-mágica tocada recebe +1 para ataque e dano. Concentração, max 1 hora. Melhoria: +2 com nível 4, +3 com  nível 6.
+
+Arrombar (V) [Ritual]: Objeto que pode ser fechado a até 18m é aberto; caso seja trancado por magia ela é suspensa por 1 minuto. Ao conjurar faz som alto, audível a até 18m.
+
+Aumentar/Reduzir (V, G, M): Alvo voluntário a até 9m recebe um dos efeitos. Aumentar: Aumenta uma categoria de tamanho, causa +1d4 com ataques de FOR e recebe Vantagem em teste de FOR. Reduzir: Diminui uma categoria de tamanho e causa -1d4 de dano com ataques de FOR. Concentração, max 1 minuto.
+
+Cordão de Flechas (V, G, M): Posiciona 4 flechas no chão a alcance toque. Pela duração, criatura que chegue ou termine turno a menos de 9m de local onde conjurou magia sofre 1d6 perfurante (DES metade). Magia acaba quando todas as flechas são lançadas. 8 horas. Melhoria: +4 flechas / nível acima.
+
+Crescer Espinhos (V, G, M): Área de 6m de raio a até 45m torna-se terreno ruim e causa 2d4 perfurante a cada 1,5m percorrido. Terreno é disfarçado como natural, exigindo Percepção para notar o perigo. 10 minutos.
+
+Escrever Céu (V, G) [Ritual]: Forma até 10 palavras no céu onde possa ver, com nuvens ou fumaça. Vento forte termina a duração. Concentração, máx 1 hora.
+Forma de Árvore (V, G): Transforma-se em planta Grande. Fica incapacitado e não pode se mover, mas recebe Resistência a dano perfurante e esmagamento. 8 horas.
+
+Levitação (V, G, M): Objeto ou voluntário a até 18m e que pese até 250kg é suspenso 6m no ar. Você ou alvo pode usar uma ação para mover 6m verticalmente. Alvo levitando só pode se mover horizontalmente empurrando ou agarrando-se em algo.
+
+Melhorar Habilidade (V, G, M): Alvo tocado recebe um dos benefícios. Força do Touro: Vantagem em testes de FOR, capacidade de carga dobra, Agilidade do Gato: Vantagem em testes de DES, não sofre dano de quedas de 6m; Vigor do Urso: Vantagem em testes de CON e 2d6 temporário; Esperteza da Raposa: Vantagem em testes de INT; Sabedoria da Coruja: Vantagem em testes de SAB; Esplendor da Águia: Vantagem em testes de CAR. Concentração, max 1 hora. Melhoria: +1 alvo / nível acima.
+
+Mensageiro Animal (V, G, M) [Ritual]: Besta miúda a até 9m viaja até localização especificada que já tenha visitado e procura um alvo de acordo com uma descrição (genérica ou específica) e fala em sua voz uma mensagem de até 25 palavras. Caso não chegue ao local pela duração, magia é perdida. 24 horas. Melhoria: +48 horas / nível acima.
+Passo sem Pegadas (V, G, M): Alvos a até 9m recebem +10 para Furtividade e não deixam rastros. Concentração, max 1 hora.
+
+Patas de Aranha (V, G, M): Alvo tocado pode se mover em superfícies verticais ou de cabeça para baixo em seu deslocamento normal. Concentração, max 1 hora.
+
+Pele de Árvore (V, G, M): Alvo tocado fica com CA 16, a não ser que seja maior. Concentração, max 1 h.
+
+Pirotecnia (V, G): Afeta chama de até 1,5m³ a até 18m, fazendo um dos seguintes efeitos: Apagar; Fumaça: Gera fumaça de 6m de raio que gera Obscurecimento Pesado, perdurando por até 1 minuto; Fogos de Artifício: Cega criaturas a até 3m até o fim de seu próximo turno (CON nega).
+Prender à Terra (V): Criatura a até 90m tem deslocamento de vôo reduzido a 0. Caso esteja no ar cai a 18m por turno. FOR nega. Concentração, max 1 minuto.
+Sátira Ardente (V): Alvo a até 27m sofre 3d10 de veneno (CON nega). Caso sobreviva sofre Desvantagem em CAR por 1 dia (curável com restauração menor). Melhoria: +1 dia / nível acima.
+
+Sopro do Dragão (V, G, M): Escolha energia entre ácido, frio, fogo, eletricidade ou veneno. Pela duração alvo tocado pode usar uma ação para fazer cone de 4,5m que causa 3d6 da energia escolhida (DES nega). Concentração, máx 1 minuto. Melhoria: +1d6 / nível acima.
+
+Truque de Corda (V, G, M): Cria espaço extradimensional para até 8 criaturas médias. Espaço só pode ser acessado por fora através de sua janela de 90cm x 1,5m. 1 hora.
+
+Véu do Caçador (G): Você e companheiros em raio de 9m recebem +10 para Furtividade e não podem ser rastreados de forma mundana. 1 hora.
+
+Visão no Escuro (V, G, M): Alvo tocado recebe visão no escuro 18m. 8 horas.
+
+
+
+Nível 3
+
+Abjuração
+Antidetecção (V, G, M): Objeto, voluntário ou cubo de até 3m tocado torna-se imune a adivinhações. 6 horas. Material 25po.
+
+Contramágica (V): Com uma Reação interrompe magia de alvo. Se estiver conjurando magia de nível 3 ou menor magia é dissipada. Se 4 ou mais faça teste de Chave contra CD 10 + Nível para dissipá-la. Melhoria: +1 nível interrompido automaticamente / nível acima.
+
+Dissipar Magia (V, G): Dissipar todas magias de nível 3 ou menor em alvo a até 36m. Para magias de nível 4 ou superior faz teste de Chave contra CD 10 + Nível da Magia. Melhoria: +1 nível dissipado automaticamente / nível acima.
+
+Farol de Esperança (V, G): Aliados a até 9m tem Vantagem em resistência de SAB e contra morte, e curas são maximizadas sobre eles. Concentração, max 1 minuto.
+
+Glifo de Proteção (V, G, M): Escreve um glifo em uma superfície de no máximo 3m de diâmetro ou dentro de um objeto que pode ser fechado. Glifo escolhe que condições ativam o glifo, inclusive através de características físicas, tipo ou tendência, bem como condições para não ativar o glifo, mas precisam envolver a área ou objeto de alguma forma. O glifo é muito discreto, e exige um teste de Investigação para ser encontrado. Pode escolher um dos seguintes glifos. Runas Explosivas: Causa 5d8 de um elemento em raio de 1,5m (DES metade); Glifo de Magia: Ativa uma magia de até nível 3 providenciada no ato da criação. Material 200po. Conjuração 1 hora. Melhoria: +1 nível de magia ou +1d8 / nível superior.
+
+Proteção contra Energia (V, G, M): Alvo tocado recebe Resistência a um tipo de dano Elemental. Concentração, max 1 hora.
+
+Remover Maldição (V, G): Criatura ou objeto mundano tocado tem todas as maldições removidas. Objetos mágicos amaldiçoados afetados permitem que usuário se livre dele.
+
+
+Adivinhação
+Clarividência (V, G, M): Sensor invisível permite ouvir ou enxergar em local conhecido ou óbvio a até uma milha. Conjuração 10 minutos. Concentração, max 10 minutos. Foco 100po.
+
+Falar com Plantas (V, G) [Ritual]: Pela duração pode falar com plantas. Informação de plantas mundanas é limitada, mas no mínimo eventos do dia passado em raio de 9m em volta. 10 minutos.
+
+Idiomas (V, M): Alvo tocado entende todos idiomas, e consegue se comunicar independente de linguagem. 1 hora.
+
+Sentido da Besta (V): Você pode trocar seus sentidos pelo de Besta tocada pela duração da magia. Concentração, max 1 h.
+
+
+Conjuração
+Círculo Mágico (V, G, M): Cria círculo de 3m de raio afeta Celestiais, Infernais, Elementais, Fadas ou Mortos-Vivos das seguintes formas: Não pode entrar no círculo de formas não-mágicas, precisa passar em resistência de CAR para entrar de forma extradimensional; recebe Desvantagem em ataques contra criaturas no círculo; alvos no círculo não podem ser Enfeitiçados, Assustados ou Possuídos pela criatura. Pode ser inscrito em reverso, proibindo uma criatura dentro e protegendo criaturas fora. 1 hora. Material 100po. Conjuração 1 minuto. Melhoria: +1 hora / nível acima.
+
+Conjurar Animais (V, G): Invoca espíritos feéricos em espaços até 18m, amistosas para você e seus aliados e que obedecem seus comandos. Pode escolher entre os seguintes: 1 besta de ND 2; duas de 1; quatro de ½; oito de 1/4. Concentração, max 1 hora. Melhoria: Dobro de criaturas com nível 5, triplo com nível 7, quádruplo com nível 9.
+
+Conjurar Barragem (V, G, M): Cone de 18m causa 3d8 de dano igual à arma usada como componente. DES metade.
+
+Convocar Relâmpago (V, G): Conjura uma tempestade elétrica de 18m de raio a até 30m de altura e 36m de distância. Ao conjurar e com uma ação relâmpago acerta raio de 1,5m a até 18m, causando 3d10 elétrico, 4d10 se a céu aberto em chuva natural. DES metade. Concentração, max 10 minutos. Melhoria: +1d10 / nível acima.
+
+Criar Alimentos (V, G): Cria 22,5 kg de alimentos e 60l de água em raio de 9m, suficiente para sustentar até 10 humanoides ou 5 montarias por até 24h. Comida é simples, mas nutritiva.
+
+Fome de Hadar (V, G, M): Escuridão de 6m de raio gera escuridão sobrenatural e terreno ruim. Causa 2d6 frio a criaturas entrando e 2d6 ácido em criaturas que terminem o turno na área. DES nega ácido. Concentração, max 1 turno.
+
+Guardiões Espirituais (V, G, M): Espíritos formam círculo de 4,5m de raio em volta de você, e ficam nessa posição. Criaturas designadas não são afetadas, todas as outras sofrem 3d8 radiante ou necrótico ao entrarem na área e tratam terreno como acidentado. CON metade. Concentração, max 10 minutos. Melhoria: +1d8 / nível acima.
+
+Invocar Demônio Menor (V, G, M): Invoca demônio a até 18m. Role 1d6: 1-2: 2 demônios ND 1 ou menos; 3-4: 4 demônios de ND ½ ou menos; 5-6: Oito demônios de ND ¼ ou menos. Demônios são hostis à todas as criaturas, inclusive você. Como parte da conjuração pode fazer círculo que impede demônio de ataca-lo, afetá-lo ou cruzar o círculo. Concentração, max 1 hora. Melhoria: Dobro de demônios com nível 6-7, triplo com 8-9.
+
+Maremoto (V, G, M): Criaturas em área de até 9m de comprimento, 3m de largura e 3m de altura sofrem 4d8 esmagamento e são derrubadas. A água então se espalha em todas as direções, apagando chamas desprotegidas a até 9m. DES metade e nega derrubar.
+Névoa Fétida (V, G, M): Área de 6m a 27m força criaturas que comecem seu turno na área a gastarem sua ação nauseadas. Concentração, max 1 minuto.
+
+Oração (V, G, M): Aliados a 9m recebem +1 para CA, ataque, dano, resistências e testes. Concentração, max 1 minuto. Magia de Ação Bônus.
+
+Revificar (V, G, M): Alvo tocado morto a até 1 minuto é ressuscitado com 1 PA. Material 300po.
+
+Passo do Trovão (V): Teletransporta-se até 27m. Criaturas a até 3m de onde saiu sofrem 3d10 trovejante. Pode levar até um voluntário, e carga até igual seu máximo. CON metade. Melhoria: +1d10 / nível acima.
+
+Tempestade de Granizo (V, G, M): Área de 12m a 45m recebe obscurecimento pesado e terreno ruim, além de atrapalhar conjuradores. Criaturas entrando na área ou começando seu turno nela caem. DES nega queda. Concentração, max 1 minuto.
+
+
+
+Encantamento
+Inimigos Abundantes (V, G): Alvo a até 36m perde capacidade de discernir amigo e inimigo. Quando ataca deve escolher alvo aleatoriamente entre todos a alcance. Quando alguém provoca ataque de oportunidade ele deve fazê-lo. INT nega, e novamente cada vez que sofre dano. Imunidade à medo evita. Concentração, máx 1 minuto.
+
+Soneca (V, M): Até três voluntário a até 9m dormem por 10 minutos. Caso durma pela duração completa recebe benefício de Descanso Curto, e não se beneficia dessa magia novamente até completar um Descanso Longo. Melhoria: +1 alvo / nível acima.
+
+
+Evocação
+Aura da Vitalidade (V): Pela duração pode usar ação bônus para curar criatura a até 9m 2d6. Concentração, max 1 minuto.
+
+Bola de Fogo (V, G, M): Explosão de 6m de raio a até 45m causa 8d6 de fogo e incendeia objetos soltos. DES metade. Melhoria: +1d6 / nível acima.
+
+Destruição Cegante (V): Próximo acerto causa +3d8 radiante e cega alvo pela duração. Concentração, max 1 minuto. CON nega cegueira, e novamente a cada turno. Magia de Ação Bônus.
+
+Enviar Mensagem (V, G, M): Manda uma mensagem de até 25 palavras para uma criatura que conheça, a qualquer distância, e alvo pode responder imediatamente. Criaturas com INT até 1 conseguem entender a mensagem.
+
+Erupção de Terra (V, G, M): Cubo no chão de 6m a até 36m causa 3d12 esmagamento e torna terreno ruim até ser limpo. DES metade. Melhoria: +1d12/nível acima.
+Luz do Dia (V, G): Ponto a até 18m gera Luz Brilhante de 18m de raio e mais 18m de luz baixa. 1 hora.
+
+Manto do Cruzado (V): Aura de 9m em você garante +1d4 de dano radiante com ataque de armas. Concentração, max 10 minutos.
+
+Meteoros Mínimos (V, G, M): Cria seis meteoros que flutuam em volta de você. Ao conjurar, e com uma ação bônus em turnos subsequentes, atira um ou dois meteoros a até 36m. Meteoros causam 2d6 fogo em raio de 1,5m. DES metade. Concentração, máx 10 minutos. Melhoria: +2 meteoros / nível acima.
+Muralha de Água (V, G, M): Muralha de até 9m de comprimento, 3m de altura e 30cm de grossura conta como terreno ruim. Ataques à distância tem Desvantagem ao passar pela muralha, e dano de fogo é cortado pela metade. Efeitos de gelo que atravessem fazem com que congele (pelo menos 1,5m pe congelado; CA 5, 15PA). Reduzir uma sessão congelada a 0 a destroi, e água em volta não a preenche novamente. Concentração, max 10 minutos.
+Muralha de Areia (V, G, M): Muralha de até 9m de comprimento, 3m de altura e 3m de grossura bloqueira linha de visão mas não movimento. Custa triplo de movimento para atravessar. Concentração, max 10 minutos.
+
+Muralha de Vento (V, G, M): Muralha de vento a até 36m pode ter até 15m de comprimento, 4,5m de altura e 0,3m de grossura, em qualquer formato desde que contíguo. Criaturas na área sofrem 3d8 esmagamento. A muralha impede fumaça, neblina e gases, criaturas voadoras e projéteis pequenos ou menores. FOR metade. Concentração, max 1 minuto.
+
+Palavra da Cura em Massa (V): Até 6 criaturas a até 18m curam 1d4+Chave. Magia de Ação Bônus. Melhoria: +1d4 / nível acima.
+
+Pequena Cabana (V, G, M): Área de 6m de raio em volta de você possui espaço para até 9 criaturas médias. A atmosfera dentro é agradável e seco, você pode controlar a luz, e criaturas e objetos podem entrar normalmente. Magias não passam pela barreira. Conjuração 1 minuto. 8 horas.
+
+Relâmpago (V, G, M): Linha de 30m causa 8d6 elétrico e incendeia objeto inflamáveis soltos. DES metade. Melhoria: +1d6 / nível superior.
+
+
+Ilusão
+Imagem Maior (V, G, M): Ilusão até Grande a até 9m, gerando informação visual, auditiva, olfativa e inclusive temperatura. Interação física revela a ilusão, bem como Investigação conta a CD. Ilusão pode ser movida e controlada livremente. Concentração, max 10 minutos. Melhoria: Permanente com nível 6.
+
+Medo (V, G, M): Criaturas em cone de 9m derrubam o que seguram e fogem em medo pela duração. Ao perder você de vista recebe um novo teste para se livrar. SAB nega. Concentração, max 1 minuto.
+
+Montaria Fantasmagórica (V, G) [Ritual]: Montaria ilusória pode ser montada por uma criatura de sua escolha. Funciona como um cavalo, mas possui deslocamento 30m, 10 milhas por hora e 13 em passo rápido. 1 hora ou até montaria sofrer dano. Conjuração 1 minuto.
+
+Padrão Hipnótico (G, M): Cubo de 9m a até 36m enfeitiça alvos e os deixa incapacitados e sem deslocamento. Efeito termina quando criatura sofre dano ou outra criatura usa uma ação para sacudi-lo. Concentração, max 1 minuto.
+
+
+Necromancia
+Animar Mortos (V, G, M): Cria esqueleto ou zumbi de restos humanoides Médios ou Pequenos. Controlar mortos-vivos a até 18m é parte de sua ação. Mortos-vivos criados permanecem sob controle por 24h; após isso outra conjuração reforça controle. Esse uso permite controle de até 4 mostos-vivos previamente criados por você. Pode controlar mortos-vivos a até 18m com uma ação bônus. Conjuração 1 minuto. Melhoria: Pode criar e controlar +2 criaturas / nível superior.
+
+Falar com os Mortos (V, G, M): Escolha um cadáver com boca, não morto-vivo. Pela duração pode fazer até 5 questões ao cadáver. Corpo é limitado ao conhecimento que tinha em vida, inclusive idiomas, e não fica sob compulsão de ser verdadeiro caso lhe perceba como inimigo ou perigo. Falha caso conjurada em um cadáver que tenha sido alvo a até 10 dias. 10 minutos.
+
+Fingir Morte (V, G, M) [Ritual]: Alvo voluntário tocado é colocado em sono indistinguível de morte; recebe resistência contra todo dano menos psíquico e suprime doenças e venenos. Pode tocar o alvo para finalizar a duração. 1 hora.
+
+Rogar Maldição (V, G): Alvo tocado é amaldiçoado de uma das formas: Desvantagem para testes e testes de resistência de um atributo; desvantagem em ataques contra você; deve fazer resistência de SAB ao começo de cada turno ou perder a ação; sofre +1d8 necrótico por ataques seus; ou outro efeito não mais poderoso que os listados. SAB nega. Concentração, max 1 minuto. Melhoria: Duração max 10 minutos com 4º nível; 8 horas com 5º; 24 horas com 7º e permanente com 9º.
+
+Toque Vampírico (V, G): Recebe um ataque por turno que causa 3d6 necrótico. Você cura metade do que causou. Concentração, max 1 minuto. Melhoria: +1d6 / nível acima.
+
+Transferência Vital (V, G): Sofre 4d8 necrótico; alvo a até 9m cura o dobro do que sofrer. Melhoria: +1d8 / nível acima.
+
+
+Transmutação
+Andar na Água (V, G, M): Até 10 criaturas a até 9m podem andar em superfícies liquidas. 1 hora.
+
+Arma Elemental (V, G): Arma tocada recebe +1 para ataque e +1d4 de dano elemental. Concentração, max 1 hora. Melhoria: +2 e +2d4 com nível 5; +3 e +3d4 com nível 7.
+
+Crescer Plantas (V, G) [Ritual]: Escolha efeitos a curto ou longo prazo. Curto: Plantas em raio de 30m a até 45m geram terreno extremamente acidentado (4x deslocamento); conjuração 1 minuto; Longo: Todas as plantas a até 45m produzem o dobro de alimento por 1 ano; conjuração 8 horas.
+
+Flecha de Relâmpago (V, G): Próximo ataque transforma-se em relâmpago e causa 4d8 elétrico em acerto, metade em erro. Criaturas a até 3m do alvo sofrem 2d8 elétrico. DES metade dano em área. Magia de Ação Bônus. Concentração, max 1 minuto. Melhoria: +1d8 para ambos os danos / nível acima.
+
+Flechas de Chamas (V, G): Até 12 flechas de aljava tocada causam +1d6 fogo. Concentração, max 1 hora. Melhoria: +2 flechas / nível acima.
+Forma Gasosa (V, G, M): Alvo tocado recebe deslocamento de voo 3m, resistência a dano físico não-mágico, imunidade a doença, veneno e a dano de veneno, além de Vantagem em testes de resistência físicos. Alvo não pode interagir com objetos, atacar ou conjurar magias. Caso vento forte o dissipe deve passar em resistência de CON CD 10 ou sofrer 5d10 de energia. Concentração, max 1 hora.
+
+Lentidão (V, G, M): Até 6 alvos em 6m de raio a até 36m têm deslocamento reduzido pela metade, -2 para CA e resistência de DES, não pode fazer Reações, não pode fazer ação e ação bônus no mesmo turno, apenas uma, e só consegue fazer um ataque. Quando conjura uma magia alvo deve rolar 1d20; em 10 ou menos magia exige duas ações para ser conjurada. SAB nega, e novamente ao final de cada turno. Concentração, max 1 minuto.
+
+Moldar-se à Pedra (V, G): Molda-se à pedra e torna-se indetectável. Pode ouvir o exterior com Desvantagem, e pode conjurar magias sobre si mesmo, bem como sair da pedra a qualquer momento, terminando a magia. Dano que torne pedra menor que você causa 6d6 esmagamento e lhe expele; destruição da pedra lhe causa 50 de dano e também expele. 8 horas.
+
+Piscar (V, G): Ao começo de cada turno role 1d20. Em 11 ou mais você salta para o plano etéreo esse turno e retorna apenas no próximo, a até 3m de onde partiu. 1 minuto.
+
+Respirar Água (V, G, M) [Ritual]: Até 10 criaturas a até 9m podem respirar água. 24 horas.
+
+Servos Miúdos (V, G): Objeto solto se anima em servo. Pode controlar servos a até 18m com uma ação bônus. Melhoria: +2 objetos / nível acima. Conjuração 1 minuto. 8 horas.
+
+Velocidade (V, G, M): Alvo a até 9m tem deslocamento dobrado, recebe +2 para CA, Vantagem para resistência de DES e uma Ação de Velocidade todo turno. Uma Ação de Velocidade é uma ação bônus a mais, mas que só pode ser usada par conjurar um truque, fazer um ataque ou as ações Fuga, Corrida, Esconder-se e Usar Objeto. Ao fim da magia alvo fica sem agir por 1 turno. Concentração, max 1 minuto.
+
+Voo (V, G, M): Alvo tocado recebe deslocamento de voo 18m. Concentração, max 10 minutos. Melhoria: +1 alvo / nível acima.
+
+
+
+Nível 4
+
+Abjuração
+Aura da Vida (V): Aura de 9m em você garante a você e aliados resistência à dano necrótico, não podem ter o máximo de PA reduzidos e caso comece o turno com 0 PA cura 1 PA. Concentração, max 10 minutos.
+
+Aura da Pureza (V): Aura de 9m em você garante a aliados dentro imunidade a doença, resistência a dano de veneno e Vantagem em testes de resistência contra condições cego, surdo, envenenado, atordoado, paralisado, assustado e enfeitiçado. Concentração, max 10 minutos.
+
+Banimento (V, G, M): Uma criatura a até 18m é afetada de uma das formas. Extraplanar: Retorna para seu plano de origem; caso magia acabe antes de 1 minuto ele retorna. Nativo: É banido para um espaço extradimensional em suspensão animada pela duração. CAR nega. Concentração, max 1 minuto. Melhoria: +1 alvo / nível acima.
+
+Movimento Livre (V, G, M): Alvo tocado não é impedido por terreno ruim, nem pode ser paralisado ou preso, não sofre penalidade por estar debaixo d’água e pode gastar 1,5m de deslocamento para escapar de agarre não-mágico. 1 hora.
+
+Pele de Pedra (V, G, M): Voluntário tocado recebe Resistência a danos físicos não mágicos. Concentração, max 1 hora. Material 100po.
+
+Proteção contra Morte (V, G): Alvo é protegido de um ataque de morte instantânea ou de ser derrubado a 0 PA (ele fica em 1). Uma vez ocorrido, magia descarrega. 8 horas.
+
+Santuário Privativo (V, G, M): Área de até 30m de lado a até 36m gera um ou mais dos seguintes efeitos: Som não passa; visão não passa; sensores de adivinhação não passam; criaturas são imunes a adivinhação; viagem extradimensional não passa; teletransportes não passam. 24 horas, mas pode ser tornado permanente ao conjurar no mesmo local por um ano e um dia. Conjuração 10 minutos. Melhoria: +30m de lado / nível acima.
+
+
+Adivinhação
+Adivinhação (V, G, M) [Ritual]: Faça uma pergunta sobre um objetivo, evento ou atividade para ocorrer em até uma semana; recebe uma resposta verdadeira sobre o assunto. Caso conjurado uma segunda vez no mesmo dia tem 25% cumulativo de sair resposta aleatória.  Material 25po.
+
+Localizar Criatura (V, G, M) [Ritual]: Descreva ou nomeie uma criatura familiar a você; você descobre a direção e distância da criatura desde que esteja a até 300m, bem como a direção em que ela está se movendo. A magia pode detectar uma criatura específica ou um tipo genérico, desde que tenha visto a criatura de perto (pelo menos 9m) ao menos uma vez. É impossível localizar uma criatura caso haja 3m ou mais de água corrente entre você e ela. Concentração, max 1 hora.
+
+Olho Arcano (V, G, M): Cria um sensor invisível que voa a até 9m por ação, que pode passar por aberturas de até uma polegada, e que lhe passa informação visual. O olho possui visão normal e visão no escuro 3m. Concentração, max 1h.
+
+
+Conjuração
+Baú Secreto de Leomund (V, G, M): Baú foco é escondido no plano etéreo. Com uma ação pode trazer o baú do etéreo ou enviá-lo novamente. Após 60 dias há 5% de chance cumulativa por dia de que a magia acabe. Caso a magia acabe com o baú no etéreo, ele é perdido pra sempre. Permanente. Material baú de 5000po e réplica de 50po.
+
+Cão Fiel (V, G, M) [Ritual]: Cão fantasma invisível a até 9m late alto caso criatura Pequena ou maior, inclusive invisível ou etérea, se aproxime a 9m sem falar senha especificada. Em seu turno cão tenta morder criatura hostil adjacente, causando 4d6 perfurante. 8 horas ou até se afastar mais de 30m.
+
+Conjurar Elementais Menores (V, G, M): Invoca elementais em espaços até 18m, amistosos para você e seus aliados e que obedecem seus comandos. Pode escolher entre os seguintes: 1 elemental de ND 2; dois de 1; quatro de ½; oito de 1/4. Concentração, max 1 hora. Melhoria: Dobro de criaturas com nível 6, triplo com nível 8.
+
+Conjurar Seres da Floresta (V, G): Invoca espíritos feéricos em espaços até 18m, amistosas para você e seus aliados e que obedecem seus comandos. Pode escolher entre os seguintes: 1 fada de ND 2; duas de 1; quatro de ½; oito de 1/4. Concentração, max 1 hora. Melhoria: Dobro de criaturas com nível 6, triplo com nível 8.
+
+Encontrar Montaria Maior (V, G): Como Encontrar Montaria, exceto que pode ser Pégaso, Grifo, Peryton, Lobo Atroz, Rinoceronte ou Tigre Dente de Sabre. Conjuração 10 minutos.
+
+Esfera Aquosa (V, G, M): Esfera de água de 3m de raio a até 27m paira a até 3m do chão. Criaturas na área são presas pela esfera, que pode conter até 4 criaturas médias ou menores, ou uma grande; caso prenda em excesso uma é solta caída adjacente. Com uma ação move esfera em linha reta até 9m, levando criaturas consigo. Pode passar sobre espaço de outra criatura para tentar absorvê-la. Ao fim da duração água cai ao chão e apaga chamas desprotegidas a até 9m, bem como derrubando criaturas presas. FOR nega ser preso pela água e move a espaço adjacente; criaturas Enormes ou maiores passam automaticamente. Concentração, max 1 minuto.
+Guardião da Fé (V): Gera guardião espectral Grande a até 9m, que ocupa espaço como uma criatura. Criaturas não designadas que se aproximem a até 3m sofrem 20 de dano radiante. Desaparece após causar um total de 60 e dano. DES metade. 8 horas.
+
+Invocar Demônio Maior (V, G, M): Invoca demônio de ND até 5 a até 18m. Quando o invoca e cada turno depois pode fazer um comando (com uma ação) determinando suas ações; caso não dê comandos demônio ataca criatura a alcance que tenha o atacado. Ao final de cada turno demônio faz resistência de CAR, com Desvantagem se você disse seu nome verdadeiro. Caso passe demônio sai de seu controle pela duração e persegue e ataca não demônios. Caso perca concentração e demônio esteja livre, permanece por mais 1d6 turnos. Como parte da conjuração pode fazer círculo que impede demônio de ataca-lo, afetá-lo ou cruzar o círculo. Concentração, max 1 hora. Melhoria: +1 ND / nível acima.
+
+Porta Dimensional (V): Teletransporta-se a até 150m para local que pode ver ou descrito. Pode levar carga desde que não ultrapasse sua carga, e uma criatura com carga até esse limite. Caso o local esteja ocupado não é teletransportado e sofre 4d6 de energia.
+
+Tentáculos Negros (V, G, M): Área de 6m de raio a até 27m causa 3d6 esmagamento e prende criaturas que entrem na área ou comecem seu turno dentro, todo turno. Criaturas presas podem se soltar com FOR ou DES em uma ação. DES nega. Concentração, max 1 minuto.
+
+Vinha Agarrante (V, G): Vinha surge a até 9m, e ataca uma criatura a até 9m, que é puxada 6m em direção à ela (DES nega). A cada turno como parte de sua ação vinha ataca a mesma ou outra criatura. Magia de Ação Bônus. Concentração, max 1 minuto.
+
+
+Encantamento
+Compulsão (V, G): Alvos em raio de 9m são compelidos a usar seu movimento todo turno para seguir em uma direção apontada. Alvo pode fazer suas ações normalmente, e não é compelido a se mover para perigo óbvio. SAB nega, e novamente ao final de cada turno. Concentração, max 1 minuto.
+
+Confusão (V, G, M): Criaturas em raio de 3m a 27m devem rolar d10 no começo de cada turno para determinar sua ação: 1: Anda em direção aleatória; 2-6: Não age; 7-8: Ataca alvo a alcance; 9-0: Age normalmente. SAB nega, e novamente ao fim de cada turno. Concentração, max 1 minuto. Melhoria: +1,5m / nível acima.
+
+Dominar Besta (V, G): Besta a até 18m é dominada. Criatura é enfeitiçada e possui elo mental que permite que a comande. Gastando sua ação pode controlá-la inteiramente, decidindo todas suas ações; é possível até fazer Reações, mas deve gastar sua Reação para tal. Criatura recebe uma nova resistência cada vez que você ou seus companheiros fazem algo ruim para ela. SAB nega, Vantagem se você ou seus aliados estiverem o enfrentando. Concentração, max 1 minuto. Melhoria: Max 10 minutos com nível 5; 1 hora com 6; 8 horas com 7.
+
+Enfeitiçar Monstro (V, G): Criatura a até 9m é Enfeitiçado. Ao final alvo sabe que foi enfeitiçado. SAB nega, com vantagem se você ou seus aliados estiverem o enfrentando. 1 hora ou até sofrer efeito negativo por você ou seus aliados. Melhoria: +1 alvo / nível acima.
+
+
+Evocação
+Destruição Vacilante (V): Próximo acerto corpo a corpo armado causa +4d6 psíquico. Alvo também sofre Desvantagem em ataques e testes, e não pode fazer Reações, até o final do turno dele. SAB nega condição. 
+
+Escudo de Fogo (V, G, M): Você faz luz brilhante em 3m e mais 3m de luz baixa. Recebe escudo de calor ou frio, que garante Resistência à fogo ou frio respectivamente. Adicionalmente criaturas adjacentes que lhe acertem em corpo-a-corpo sofre 2d8 do elemento apropriado. 10 minutos.
+
+Esfera Resiliente (V, G, M): Alvo Grande ou menor a até 9m é preso em esfera de energia. Esfera é imune a dano e nada consegue atravessá-la, protegendo e prendendo alvo dentro. A esfera não tem peso e é apenas grande o suficiente para prender criatura dentro. Alvo pode usar sua ação para rolar a esfera metade de seu deslocamento, e esfera pode ser pega por criaturas grandes o suficiente. DES nega. Concentração, max 1 minuto.
+
+Esfera da Tempestade (V, G): Esfera de vento de 6m de raio a até 45m gera terreno ruim. Criaturas que estejam na área ao surgir, ou ao terminar o turno, sofrem 2d6 esmagamento. Com uma ação bônus faz ataque mágico à distância de até 18m do centro, causando 4d6 elétrico, com Vantagem contra alvos dentro da esfera. Criaturas a até 9m da esfera sofrem Desvantagem para ouvir. Concentração, max 1 minuto. Melhoria: +1d6/nível acima.
+Esfera Vitriólica (V, G, M): Explosão de raio 6m a até 45m causa 10d4 ácido e 5d4 ácido ao fim de turno de afetados. DES metade dano original e nega secundário. Melhoria: +2d4/nível acima.
+
+Esplendor Enjoativo (V, G): Raio de 9m a 36m emana luz baixa. Criaturas entrando na área ou começando turno nela sofrem 4d10 radiante, um nível de Exaustão e emanam luz baixa em raio de 1,5m, impossibilitando invisibilidade. Luz e exaustão desaparecem ao fim da magia. CON nega. Concentração, máx 10 minutos.
+
+Muralha de Fogo (V, G, M): Muralha de 9m de comprimento, 3m de altura e 30cm grossura, ou muralha circula de 6m de diâmetro e 6m de altura surge a até 27m e gera obscurecimento pesado para tudo que estiver atrás. Criaturas na área sofrem 5d8, bem como criaturas que terminem o turno a até 3m de um dos lados (escolhido por você) ou que entrem na muralha. DES nega dano original e move para um dos lados. Concentração, max 1 minuto. Melhoria: +1d8 / nível acima.
+
+Tempestade de Gelo (V, G, M): Cilindro de 6m de raio e 12m de altura a até 18m causa 2d8 esmagamento e 4d6 de frio, e torna terreno ruim até fim de seu próximo torno. DES metade. Melhoria: +1d8 esmagamento / nível acima.
+
+
+Ilusão
+Assassino Fantasmagórico (V, G, M): Alvo a até 36m fica Assustado. Ao começo de cada turno sofre 4d10 psíquico. SAB nega, e ao começo de cada turno nega dano e finaliza magia. Concentração, max 1 minuto. Melhoria: +1d10 / nível acima.
+
+Invisibilidade Maior (V, G): Alvo tocado fica invisível pela duração. Concentração, max 1 minuto.
+
+Terreno Alucinatório (V, G, M): Escolha uma área de lado até 45m. Terreno no local parece como outro para visão, audição e olfato. Mudanças táteis obvias são facilmente notadas, mas mudanças sutis podem ser notadas com Investigação por criaturas que examinem a área. 24 horas. Conjuração 10 minutos.
+
+
+Necromancia
+Contagio (V, G): Alvo tocado sofre uma doença entre as seguintes. Enjôo Cegante: Fica cego e desvantagem em testes e resistência de SAB; Febre do Esgoto: Desvantagem em ataque, testes e resistências de FOR; Carne Podre: Desvantagem em testes de CAR e vulnerabilidade a todos os tipos de dano; Fogo Mental: Desvantagem em testes e resistência de INT, age como se em Confusão; Convulsão: Desvantagem em ataques, testes e resistências de DES; Perdição Gosmenta: Desvantagem em testes e resistência de CON, sempre que sofre dano fica atordoado até o final de seu turno. Ao final de cada turno faz resistência de CON, na terceira falha torna-se permanente, no terceiro sucesso é curado.
+
+Ferir (V, G): Alvo a até 18m sofre 14d6 necrótico e seus PA máximos são reduzidos em valor igual por uma hora. Efeito é removido por remoções de doença. Não pode levar alvo a menos que 1. CON metade e nega redução.
+
+Praga (V, G): Alvo a até 9m sofre 8d8 necrótico (CON metade); criaturas planta tem Desvantagem e sofre dano maximizado; plantas normais simplesmente secam e morrem. Melhoria: +1d8 / nível acima.
+
+Sombra de Moil (V, G, M): Recebe obscurecimento pesado. Luz brilhante a 3m de você torna-se baixa, e baixa torna-se escuridão. Recebe resistência à dano radiante, e sempre que criatura a até 3m lhe acerta com ataque, sofre 2d8 necrótico. Concentração, máx 1 minuto. Foco 150po.
+
+
+Transmutação
+Andar no Ar (V, G, M): Até 10 alvos a até 9m podem andar no ar como se fosse solo. Pode subir ou descer em ângulo de 45º à metade do deslocamento. Ventos fortes contam como terreno ruim. Conjuração 1 minuto. 8 horas. Melhoria: +1 alvo / nível acima de 4.
+
+Controlar Água (V, G, M): Controla toda água em área de até 30m cúbicos em raio de 100m. Pode fazer um dos seguintes efeitos: Enchente: Ergue nível da água em 6m, ou cria onda de mesma altura. Objetos Enormes ou menores são carregados, e tem 25% de chance de virar; Dividir Águas: Cria trincheira na água, ao fim da duração água retorna lentamente ao seu normal; Direcionar Fluxo: Água flui em direção de sua escolha, mesmo contra leis da física; Vórtice: Gera vórtice em grande corpo de água, tem 1,5m na base e 15 no topo, e 7,5 de altura, criaturas e objetos a até 7,5m são sugados 3m, criatura pode se afastar com resistência de FOR. Criaturas e objetos que alcancem o vórtice são pegos, sofrem 2d8 esmagamento todo turno e possuem Desvantagem em resistência de FOR para se afastar. Concentração, max 10 minutos.
+
+Fabricar (V, G): Transforma até 8 cubos de 1,5m de material em produto terminado; 1 cubo se mineral. Não pode criar itens que exigem grande perícia como joias, armas ou armaduras, a não ser que possua proficiência na ferramenta certa. Conjuração 10 minutos.
+
+Guardião da Natureza (V): Recebe um dos seguintes benefícios: Fera Primitiva: +3m movimento terrestre, visão no escuro 36m, vantagem para ataques de FOR, +1d6 dano de energia corpo-a-corpo. Grande Árvore: 10 PA temporários, vantagem para resistência de CON, vantagem para ataques de DES e SAB, enquanto no chão terreno de 4,5m em volta é ruim para oponentes. Concentração, máx 1 minuto. Magia de ação bônus.
+
+Inseto Gigante (V, G): Transforma até dez centopeias, três aranhas, cinco vespas ou um escorpião a até 9m em versões gigantes. O inseto obedece seus comandos como uma criatura invocada. Concentração, max 10 minutos.
+
+Metamorfose (V, G, M): Alvo a até 18m é transformado em uma nova forma. Funciona como Forma Selvagem, mas limitado a Bestas com ND igual ou menor que o ND ou Nível do alvo, e também modifica atributos mentais. Equipamento molda-se à forma. SAB nega. Concentração, max 1 hora.
+
+Moldar Pedra (V, G, M): Objeto tocado de pedra até médio, ou bloco de até 1,5m de pedra, pode ser moldado facilmente. É possível gerar formas ou criar buracos e passagens.
+
+Perdição Elemental (V, G): Escolha um alvo até 27m e um dano elemental. Alvo perde Resistência a esse tipo de dano e a primeira vez que sofrê-lo no turno sofre +2d6. CON nega. Concentração, max 1 minuto. Melhoria: +1 alvo / nível acima, a até 9m uma da outra.
+
+
+
+Nível 5
+
+Abjuração
+Âncora Planar (V, G, M): Escolha um celestial, elemental, fada ou infernal a até 18m que estava presente a cerimônia toda. Criatura é presa ao seu comando e deve obedecer suas ordens no melhor de sua habilidade; caso termine a ordem antes do fim da duração retorna até você para lhe informar. CAR nega. 24 horas. Conjuração 1 hora. Material 1000po. Melhoria: 10 dias com nível 6; 1 mês com nível 7; 6 meses com nível 8; 1 ano com nível 9.
+
+Barreira Antivida (V, G): Aura de 3m em você impede que criaturas vivas entrem. Podem lançar magias e atacar a distância alvos dentro. Caso tente forçar contra alvo magia acaba. Concentração, max 1h.
+
+Círculo de Poder (V): Aura de 9m em você garante Vantagem em testes de resistência contra efeitos mágicos, e sempre que passarem em resistências mágicas de metade de dano, não sofrem nada. Concentração, max 10 min.
+
+Destruição do Banimento (V): Próximo acerto causa +5d10 de energia, caso reduza alvo extraplanar a 50 PA ou menos bane alvo pela duração. Magia de Ação Bônus. Concentração, max 1 minuto.
+
+Dissipar Bem ou Mal (V, G, M): Celestiais, elementais, fadas, infernais e mortos-vivos tem Desvantagem em ataques contra você. Pode descarregar a magia para realizar um dos efeitos: Quebrar Encantamento: Remove feitiço, medo ou possessão por uma criatura desses tipos de alvo tocado. Dispensar: Toque força resistência de CAR em criatura de um dos tipos, ou ser banida parra seu plano de existência. Concentração, max 1 minuto.
+
+
+Adivinhação
+Comunhão (V, G, M) [Ritual]: Faz até três perguntas dentro de 1 minuto, recebendo uma resposta de uma palavra. Caso conjurado uma segunda vez no mesmo dia tem 25% cumulativo de sair resposta aleatória. Conjuração 1 minuto.
+
+Comunhão com a Natureza (V, G) [Ritual]: Recebe conhecimento sobre informações de território em raio de 3 milhas. Recebe três fatos sobre os seguintes tópicos: Terreno e corpos de água; plantas, minerais, pessoas e animais prevalentes; celestiais, fadas, infernais, elementais ou mortos-vivos poderosos; influência de outros planos; construções. Conjuração 1 minuto.
+
+Conhecimento da Lenda (V, G, M): Recebe informações de objeto, pessoa ou local nomeado. Descobre lendas e histórias significantes, bem como propriedades, poderes ou capacidades mágicas ou especiais que possua, bem como se essas lendas são verdade ou não. Caso seja item mágico aprende todas suas propriedades, palavras de comando e um segredo sobre o item, caso ele possua algum. Conjuração 10 minutos. Material 250po, Foco 50 po.
+
+Contatar Outro Plano (V) [Ritual]: Faz resistência de INT CD15. Se passar faz até cinco perguntas dentro de 1 minuto, recebendo uma resposta de uma palavra. Caso falhe sofre 6d6 psíquico, magia acaba e fica insano até passar por um descanso longo. Quando insano não pode agi, entender, ler, e só fala besteira. Conjuração 1 minutos.
+
+Elo Telepático (V, G, M) [Ritual]: Até oito voluntários inteligentes a até 9m criam elo telepático e podem se comunicar por telepatia a qualquer distância. 1 hora.
+
+Espionagem (V, G, M): Pode ver o observar uma criatura escolhida bem como 3m em volt dele, desde que no mesmo plano. O teste de resistência do alvo é modificado de acordo com seu conhecimento e conexão com ele. Conhecimento: Ouviu falar +5, conheceu alvo +0, é familiar com alvo -5; Conexão: Desenho -2, posse ou roupa -4, parte do corpo -10. Concentração, max 10 minutos. Foco 1000po. Conjuração 10 minutos. SAB nega.
+
+
+Conjuração
+Círculo de Teletransporte (V): Desenha círculo de 3m de raio que liga sua localização atual a um circulo permanente que você conheça a sequência rúnica. Um portal permanece aberto até o final de seu próximo turno, e criaturas que passarem por ele saem no círculo permanente. Aprender uma sequência rúnica exige seu estudo presencial por 1 minuto. Para criar um círculo permanente deve conjurar essa magia no mesmo local todos os dias por 1 ano. Conjuração 1 minuto.
+
+Conjurar Elementais (V, G, M): Invoca um Elemental amistoso de ND até 5 a até 27m que obedece seus comandos. Caso perca a concentração elemental não desaparece, e sim torna-se hostil e só desaparece após uma hora da conjuração. Conjuração 1 minuto. Concentração, max 1 hora. Melhoria: +1 ND / nível acima.
+
+Conjurar Voleio (V, G, M): Criaturas de raio de 12m e 6m de altura a até 45m sofrem 8d8 de dano do tipo da arma usada como foco. DES metade.
+
+Convocação Infernal (V, G, M): Invoca Diabo de ND até 6 a até 27m. Diabo não é amistoso para com você e age de acordo com os próprios interesses. Uma vez por turno pode tentar dar um comando para o diabo (não gasta ação). Caso ele não queira segui-lo por vontade própria é necessário um teste de Enganação, Intimidação ou Persuasão contra Intuição do diabo, com Vantagem se disser o nome verdadeiro dele. Em sucesso ele segue o comando até completa-lo, e então retorna para avisá-lo. Em falha diabo se torna imune a comandos verbais pela duração, apesar de que pode decidir obedecê-los por vontade própria. Caso perca Concentração antes do fim da magia e diabo tenha ficado imune a comandos verbais, ele permanece por 3d6 minutos, podendo agir da forma que preferir. Caso possua o talismã individual do diabo em questão pode invocar diabo de ND+1, e ele obedece todos seus comandos. Conjuração 1 minuto. Concentração, máx 1 hora. Foco: Rubi 999po. Melhoria: +1 ND / nível acima.
+
+Curar Ferimentos em Massa (V, G): Até seis criaturas em raio de 9m a até 18m curam 3d8+Chave. Melhoria: +1d8 / nível acima.
+
+Golpe do Vento de Aço (G, M): Faz ataque corpo-a-corpo mágico contra até 5 criaturas a até 9m. Cada uma sofre 6d10 energia. Pode então teletransportar adjacente a qualquer um dos alvos.
+
+Muralha de Espinhos (V, G, M): Muralha de espinhos a até 27m pode ter 18m de comprimento, 3m de altura e 1,5m de grossura, ou 6m de altura e 1,5m de grossura, e bloqueia linha de visão. Criaturas na área ao surgir são pegas e sofrem 7d8 cortante. Criaturas podem passar pela muralha, mas custa 4x movimento e causa o mesmo dano. DES metade atravessar. Concentração, max 10 minutos. Melhoria: +1d8 / nível acima.
+
+Névoa Mortal (V, G): Nuvem de 6m de raio a até 36m gera obscurecimento pesado. Criaturas entrando na névoa ou começando seu turno nela sofrem 5d8 (CON metade). A névoa se afasta 3m a cada turno. Concentração, max 10 minutos. Melhoria: +1d8 / nível acima.
+
+Onda Destrutiva (V): Alvos a até 9m sofre 5d6 trovejante e 5d6 radiante ou necrótico (sua escolha), e são derrubados. CON metade e nega derrubado.
+
+Passo de Árvore (V, G): Ganha habilidade de entrar em uma árvore e sair em outra de mesmo tipo a até 150m. Concentração, max 1 minuto.
+
+Passo Distante (V): Teletransporta-se até 18m. Pela duração pode usar ação bônus para se teletransportar assim novamente. Concentração, máx 1 minuto. Magia de ação bônus.
+
+Praga de Insetos (V, G, M): Insetos em raio de 6m a até 90m causam 4d10 perfurante ao surgir e a cada criatura que terminar seu turno na área, além de tornar terreno ruim. CON metade. Melhoria: +1d10 / nível acima.
+
+
+Encantamento
+Dominar Pessoa (V, G): Humanoide a até 18m é dominado. Criatura é enfeitiçada e possui elo mental que permite que a comande. Gastando sua ação pode controlá-la inteiramente, decidindo todas suas ações; é possível até fazer Reações, mas deve gastar sua Reação para tal. Criatura recebe uma nova resistência cada vez que você ou seus companheiros fazem algo ruim para ela. SAB nega, Vantagem se você ou seus aliados estiverem o enfrentando. Concentração, max 1 minuto. Melhoria: Max 10 minutos com nível 6; 1 hora com 7; 8 horas com 8.
+
+Enfraquecer o Intelecto (V, G, M): Alvo a até 45m sofre 4d6 psíquico e tem INT e CAR reduzidos a 1. INT nega, e novamente a cada 30 dias. Permanente.
+
+Estática Sináptica (V, G): Raio de 6m a até 36m causa 8d6 psíquico e pela duração alvos reduzem 1d6 de todos os ataques, testes e testes de Concentração. INT metade e nega efeito, e novamente ao fim de cada turno. Instantâneo.
+
+Imobilizar Monstro (V, G, M): Alvo a até 27m fica paralisado. SAB nega, e novamente ao final de cada turno. Concentração, max 1 minuto. Melhoria: +1 alvo / nível acima.
+
+Missão (V): Criatura a até 18m é Enfeitiçada. Pode então colocar uma compulsão mágica em realizar ou evitar uma certa ação, desde que não seja algo que resulte em morte certa. Uma vez por dia quando a criatura age diretamente contra a instrução sofre 5d10 psíquico. SAB nega. Conjuração 1 minuto. 1 mês. Melhoria: 1 ano com nível 7; permanente com nível 9.
+
+Modificar Memória (V, G): Alvo a até 9m fica Enfeitiçado, incapacitado e alheio ao ambiente. Enquanto alvo estiver enfeitiçado pode modificar até 10 minutos de memória, removendo, adicionando, modificando, criando, etc. Memória pode ser de no máximo 24 horas atrás. Concentração, max 1 minuto. SAB nega, com vantagem caso esteja lutando com você. Melhoria: Uma semana atrás com nível 6, 1 mês com nível 7, 1 ano com nível 8, qualquer ponto no passado com nível 9.
+
+
+Evocação
+Alvorada (V, G, M): Cilindro de 9m de raio e 12m de altura a 18m tem luz solar brilhante. Criaturas na área sofrem 4d10 radiante, e novamente sempre que terminam turno na área. CON nega. Com ação bônus pode mover área até 18m, desde que a até 18m dela. Foco 100po. Concentração, máx 1 minuto.
+
+Arma Sagrada (V, G): Arma tocada torna-se mágica, emite luz brilhante e baixa 9m cada, e causa +2d8 radiante. Com ação bônus pode dissipar efeito e causar explosão de brilho. Alvos visíveis à escolha a até 9m de você sofrem 4d8 radiante e ficam Cegos por 1 minuto (CON metade e nega condição, e novamente ao fim de cada turno). Concentração, máx 1 hora.
+
+Cone de Frio (V, G, M): Cone de 18m causa 8d8. CON metade. Melhoria: +1d8 / nível acima.
+
+Consagrar (V, G, M): Consagra área de 18m em volta de área tocada que gera três efeitos: Celestiais, fadas, elementais, infernais e mortos-vivos de tendência oposta não podem entrar na área, nem podem Enfeitiçar, Assustar ou Possuir criaturas na área; criaturas afetadas por essas condições deixam de estar ao entrar na área. Segundo corpos enterrados na área não podem ser transformados em mortos-vivos. Terceiro, pode prender um efeito extra na área, que se aplica a todas as criaturas, somente de sua fé ou tendência, ou somente de fé ou tendência diferente. Os efeitos são: Bênção: +1 para ataques e vantagem contra ser assustado; Perdição: -1 para ataque e desvantagem em testes contra medo; Coragem: Não pode ser assustado; Escuridão: Escuridão mágica preenche área; Luz: Luz brilhante preenche área; Proteção: Recebe resistência a um tipo de dano exceto físicos; Vulnerabilidade: Vulnerabilidade a um tipo de dano exceto físicos; Interferência: Bloqueia viagem planar; Medo: Assustado enquanto na área; Silêncio: Som não entra nem sai da área; Idiomas: Pode se comunicar com qualquer outra criatura na área; Outro: De acordo com o mestre. Conjuração 24 horas. Material 1000po.
+
+Imolação (V): Alvo a até 27m sofre 8d6 fogo e pega fogo, gerando iluminação brilhante de 9m e baixa mais 9m, bem como sofre 4d6 fogo ao fim de cada turno. Chama não pode ser apagada de forma não-mágica. Alvo levado a 0 por esse efeito vira cinzas. DES metade e nega imolação, e novamente ao fim de cada turno termina efeito. Concentração, max 1 minuto.
+Ira da Natureza (V, G): Cubo de 18m a até 36m recebe seguintes efeitos: Onde tiver grama ou plantas torna-se terreno ruim para inimigos; ao começo de seu turno inimigos a até 3m de árvore sofrem 4d6 cortante (DES nega); ao fim de seu turno uma criatura na área é presa pela duração (FOR nega, e Atletismo com uma ação a cada turno liberta); com ação bônus faz ataque a distância contra alvo na área, causando 3d8 esmagamento e derrubando alvo (FOR nega). Concentração, máx 1 minuto.
+
+Golpe de Chama (V, G, M): Cilindro de 3m de raio e 12 de altura causa 4d6 fogo e 4d6 radiante. DES metade. Melhoria: +1d6 dano de um tipo / nível acima.
+
+Mão de Energia (V, G, M): Cria mão Grande de energia a até 36m. A mão se move a seu comando, imitando os movimento de sua mão mas com a força de um gigante. A mão tem qualidades de construto e possui CA 20 e PA iguais aos seus, FOR 26 e DES 10. Com uma ação pode mover a mão a até 18m e fazê-la fazer uma das seguintes ações. Punho Fechado: Ataca alvo, causando 4d8 de energia. Mão Forçosa: Faz FOR da mão vs Atletismo (com vantagem caso alvo seja médio ou menor), se passar empurra alvo 1,5m +1,5m/chave. A mão se move junto. Mão Esmagadora: Tenta agarrar alvo Enorme ou menor, usando FOR (com vantagem se alvo é médio ou menor). Cada vez que usa uma ação para manter o agarre causa 2d6+Chave. Mão Interposta: Se coloca entre você e uma criatura até seu próximo turno, e se move para ficar entre os dois. Mão garante cobertura parcial e a não ser que alvo possua FOR igual da mão chave não pode se mover em sua direção (caso possua igual ou maior pode, mas a metade do deslocamento). Melhoria: +2 dados de dano/nível superior.
+
+Muralha de Energia (V, G, M): Cria muralha invisível de energia a até 27m. Pode ser uma esfera ou domo de 3m de diâmetro ou até 10 painéis conectados de 3x3. Muralha é imune a dano, e nada passa por ela. Muralha se estende a planos coexistentes com o plano onde foi criada, no caso do material incluindo o etéreo. Concentração, max 10 minutos.
+
+Muralha de Luz (V, G, M): Muralha flutuante de até 18m de comprimento, 3m de altura e 1,5m de grossura aparece a até 36m. Emite luz brilhante e baixa a 36m, e bloqueia linha de visão. Criaturas na área ao surgir sofrem 4d8 radiante e ficam cegas por 1 minuto. CON metade e nega cegueira, e novamente ao fim de cada turno. Criatura que termine turno na área sofre 4d8 radiante. Pela duração, com uma ação faz ataque a até 18m causando 4d8 radiante, reduzindo comprimento da muralha em 3m. Melhoria: +1d8 / nível acima.
+
+Muralha de Pedra (V, G, M): Muralha de pedra a até 27m pode ser feita como 10 painéis de 3x3 e 15cm de grossura ou o +50% do tamanho por metade da grossura. Muralha pode ter qualquer forma mas não pode ocupar o mesmo espaço que uma criatura. Cada painel possui CA 5 e 15 PA para cada 2,5cm de grossura. Concentração, max 10 minutos.
+
+Turbilhão (V, G, M): Massa de água de 9m de raio e 1,5m de profundidade a até 36m gera terreno ruim e causa 6d6 esmagamento e puxa 3m pro centro quem começar turno na área. FOR nega dano e puxão. Concentração, max 1 minuto.
+
+Ilusão
+Aparência (V, G): Qualquer número de criaturas a até 9m recebe uma aparência ilusória como em Disfarçar-se. CAR nega. 8 horas.
+
+Criação (V, G, M): Cria até 1,5m cúbico de material a até 9m. Duração depende de material. Vegetal: 1 dia; Mineral: 12 horas; Metal precioso: 1 hora; Gemas: 10 minutos; Adamante ou Mithril: 1 minuto. Esse material ilusório não serve como componente material. Conjuração 1 minuto. Melhoria: +1,5m cúbico / nível acima.
+
+Enganar (G): Fica invisível ao mesmo tempo que gera cópia ilusória. Com ação pode mover ilusão até dobro de seu deslocamento e fazê-la agi como preferir. Pode usar seus sentidos através da cópia. Concentração, max 1 hora.
+
+Sonho (V, G, M): Escolha uma criatura conhecida; você ou criatura tocada entra em transe até alvo dormir. Quando alvo dorme entra em seu sonho, inclusive modificando ele, e pode interagir com o alvo enquanto os dois dormirem. Pode fazer a mensagem ser um pesadelo; nesse caso pode falar no máximo 10 palavras e alvo não se recupera com sono e sofre 3d6 psíquico ao acordar (SAB nega). Caso possua parte do corpo do alvo resistência recebe Desvantagem. 8 horas. Conjuração 1 minuto.
+
+
+Necromancia
+Dança Macabra (V, G): Até 5 cadáveres pequenos ou médios a até 18m tornam-se Zumbis ou Esqueletos que recebem bônus para ataque e dano igual à Chave. Com uma ação bônus pode comandar todos a até 18m, decidindo seus movimentos e ações, ou dar um comando geral que seguem até receberem novas ordens. Mortos-vivos permanecem animados apenas pela duração. Concentração, máx 1 hora. Melhoria: +2 corpos / nível acima.
+
+Enervação (V, G): Alvo a até 18m sofre 4d8 necrótico e você cura metade do que causar. Pela duração pode usar ação para causar dano novamente. Magia acaba caso use ação para qualquer outra coisa ou alvo saia do alcance. DES metade e termina magia. Concentração, máx 1 minuto. Melhoria: +1d8 / nível acima.
+
+Enxurrada de Energia Negativa (V, M): Alvo a até 18m sofre 5d12 necrótico. Se for morto pelo dano é erguido como Zumbi no próximo turno, atacando criatura mais próxima. Morto-vivo afetado ao invés disso recebe PA temporário igual metade do dano que sofreria. CON metade.
+
+Jarra Mágica (V, G, M): Seu corpo fica catatônico e sua alma entra no componente material. Pode terminar a magia com uma ação ou com objeto sendo destruído, e nesse caso sua alma retorna ao seu corpo caso a até 30m, caso contrário sua alma é destruída. Dentro do receptáculo você pode usar todos seus sentidos, mas pode apenas acabar a magia ou tentar possuir outra criatura. Pode tentar possuir uma criatura a até 9m; você assume o corpo dela e ela vai para o receptáculo. Funciona como Forma Selvagem, mas usando as estatísticas de alvo. Você permanece sob controle do alvo até ele cair a 0, e então sua alma volta para a gema e a dela para o corpo. CAR nega e torna imune por 24 horas. Permanente. Material 500po.
+
+Ressuscitar os Mortos (V, G, M): Alvo tocado morto a não mais que 10 dias retorna à vida com 1 PA. Magia fecha ferimentos mortais mas não restaura partes perdidas, e remove doenças e venenos. Um alvo ressuscitado recebe -4 para todos os testes; essa penalidade diminui em 1 a cada Descanso Longo. Conjuração 1 hora. Material 500po.
+
+
+Transmutação
+Aljava Rápida (V, G, M): Pela duração recipiente de munição tocado produz munição infinita. Com ação bônus faz dois ataques com arma a distância que use essa munição. Caso deixe de usar o recipiente magia acaba. Concentração, max 1 minuto.
+
+Animar Objetos (V, G): Até 10 objetos soltos a até 36m ficam sobre seu controle. Médios contam como dois, grandes quatro e enormes oito. Pode comandá-los com uma ação bônus, desde que a até 150m. Estatísticas são por tamanho. Miúdo: 20 PA, CA 18, ataque +8, 1d4+4, FOR 4, DES 18; Pequeno: 25 PA, CA 16, ataque +6, 1d8+2, FOR 6, DES 14; Médio: 25 PA, CA 13, ataque +5, 2d6+1, FOR 10, DES 12; Grande: 50 PA, CA 10, ataque +6, 2d10+2, FOR 14, DES 10; Enorme: 80 PA, CA 10, ataque +8, 2d12+4, FOR 18, DES 6. Objetos possuem CON 10, INT e SAB 3 e CAR 1, deslocamento 9m ou voo 9m. Concentração, max 1 minuto. Melhoria: +2 objetos / nível acima.
+
+Aprimoramento de Perícia (V, G): Alvo tocado recebe Aptidão em uma perícia de sua escolha. Concentração, máx 1 hora.
+
+Controlar Ventos (V, G): Controla ar em cubo de 27m a até 90m, gerando um dos efeitos seguintes que permanece pela duração ou até usa uma ação para mudá-lo. Lufadas: Vento sopra em uma direção com força Calma, Moderada ou Forte. Para Baixo: Ataques a distância contra alvos na área sofrem desvantagem, criaturas voando ao entrar ou começar turno são jogadas ao chão e terminam caídas (FOR nega). Para Cima: Criaturas na área sofrem metade de dano de queda e saltam 3m mais longe. Concentração, máx 1 hora.
+Despertar (V, G, M): Besta ou planta até grande tocado e com INT até 3 recebem INT 10 e capacidade de falar um idioma que você entende. Plantas também recebem sentidos de humanos e capacidade de se mover. Criatura despertada é Enfeitiçada por 30 dias. Material 1000po. Conjuração 8 horas.
+
+Mudar Cajado (V, G, M): Cajado cravado no chão se transforma ao longo de um turno. Criatura funciona como um Ent, mas sem a habilidade Animar Plantas, e obedece seus comandos. 12 horas ou até Ent ser derrubado a 0.
+
+Passar Parede (V, G, M): Abre passagem de até 1,5m de largura, 2,5m de altura e 6m de profundidade em material de pedra, tijolo ou madeira, a até 9m. 1 hora.
+
+Reencarnação (V, G, M): Toca humanoide (ou pedaço dele), que esteja morto a no máximo uma semana, gerando um novo corpo aleatório para ele viver. Conjuração 1 hora. Material 1000po.
+
+Telecinese (V, G): Escolhe entre criaturas ou objetos. Criatura: Move criatura até duas categorias de tamanho maior que você a até 9m ao vencer Chave vs FOR, além de prendê-la por 1 turno; a cada turno usa uma ação para manter alvo preso; Objeto: Objeto a até 18m, solto e pesando 150kg pode ser movido. Objetos usados ou carregados só são soltos perante Chave vs FOR. Concentração, max 10 minutos.
+
+Transmutar Rocha (V, G, M): Cubo de até 12m de rocha ou lama a até 36m é afetado de uma das seguintes formas: Rocha em Lama: Rocha ou solo não-mágico vira lama pela duração, se solo torna-se terreno particularmente ruim (4x deslocamento), criaturas na área, entrando ou terminando o turno nela afundam e ficam Presas (FOR nega), precisando gastar uma ação para se soltar. Se teto cai e causa 4d8 esmagamento (DES metade). Lama em Rocha: Lama ou areia movediça com não mais de 3m de profundidade vira rocha macia pela duração. Criaturas na área ficam presas na rocha (DES nega). Pode usar uma ação para se soltar ao passar em teste de FOR CD 20, ou causando 25 de dano na rocha em volta. Nota: Duração incorretamente listada como Instantânea.
+
+Nível 6
+
+Abjuração
+Barreira Primordial (V, G): Recebe resistência a dano de Ácido, Eletricidade, Fogo, Frio e Trovejante. Com uma reação pode perder as resistências e se tornar imune a um tipo de energia até o fim de seu próximo turno, quando magia então acaba. Concentração, max 1 minuto.
+Bosque Druidico (V, G, M): Protege área natural cúbica de 9 a 27m de lado, que pode ser subterrânea ou a céu aberto. Caso conjurado todos os dias por 1 ano torna-se Permanente. Construções são excluídas da área. Ao conjurar pode especificar criaturas imunes, bem como determinar uma senha que torna falante imune. Os seguintes efeitos podem se manifestar na área: Névoa Sólida: Qualquer área é coberta com neblina de 3m de altura que causa obscurecimento pesado e conta como terreno ruim; para imunes é neblina fina. Vinhas: Área que não tem neblina é afetada por Constrição; para imunes plantas formam cadeiras e camas confortáveis. Guardiões: Até 4 árvores na área assumem estatísticas de Árvores Despertas que não podem falar. Efeito Adicional: Pode colocar efeito de escolha de Lufada de Vento constante em duas localizações, Crescer Espinhos em uma localização e Muralha de Vento em duas localizações. Conjuração 10 minutos. Duração 24 horas.
+
+Dissipar Magia Maior (V, G): Como Dissipar Magia, mas automaticamente nível 4-, com teste 5+.
+
+Globo de Invulnerabilidade (V, G, M): Aura de 3m em você impede que magias de nível 5 ou menor entrem ou afetem criaturas dentro ou atrás, mesmo se conjurada com nível acima. Concentração, max 1 minuto. Melhoria: +1 nível protegido / nível acima.
+
+Proibição (V, G, M) [Ritual]: Protege área de até 4km quadrados contra viagem planar. Adicionalmente criaturas de tendência diferente que a sua entrando na área sofrem 3d6 se um eixo ou 7d6 se dois, radiante ou necrótico. Pode incluir uma palavra-chave que garante acesso seguro. Pode ser tornada permanente ao conjurar a magia sobre o mesmo local 30 dias seguidos. Conjurar em dias seguidos no mesmo local não gasta novos componentes. Material 1000pp. Conjuração 10 minutos. 1 dia.
+
+Proteger Fortaleza (V, G, M): Protege área de até 100 quadrados. Corredores são preenchidos com neblina e tem 50% de invasores acreditarem estar indo para lado contrário de onde estão; portas são protegidas com Tranca Arcana e até 10 portas podem ser disfarçadas com uma ilusão de serem paredes; escadas são preenchidas com Teia que crescem novamente em 10 minutos caso queimadas. Também pode colocar até 5 dos seguintes efeitos: Globos de Luz em quatro corredores; Boca Mágica em duas localizações; Névoa Fétida em duas localizações; Lufada de Vento em um corredor ou sala; Sugestão em uma localização, afetando criatura que passar por área e 1,5m. Torna permanente após conjurar por um ano seguido. Conjuração 10 minutos. 24 horas.
+
+
+Adivinhação
+Encontrar o Caminho (V, G, M): Nomeie uma localização fixa e específica que existe no seu plano. A magia lhe indica a rota física mais curta e direta até a localização. Pela duração você sabe sua direção e localização relativa ao alvo, bem como a rota mais direta, mesmo entre opções. Conjuração 1 minuto. Concentração, max 1 dia. Foco 100pp.
+
+Visão da Verdade (V, G, M): Alvo tocado vê através de escuridão normal e mágica, coisas escondidas por magia, invisíveis, forma natural de metamorfos, o plano etéreo, e detecta e resiste a ilusões visuais a até 36m. 1 hora. Material 25po.
+
+
+Conjuração
+Aliado Planar (V, G): Convoca um imortal que surge perante você. Ele não fica sob compulsão alguma de lhe ajudar mas pode fazer um pedido que ele pode concordar ou não, mas que exige pagamento. Valores típicos expressados em po são 100 por minuto para trabalhos de até 10 minutos; 1000 por hora para trabalhos de até 24 horas; e 10000 por dia para trabalhos de até 10 dias. Uma criatura convocada divide XP e tesouro. Conjuração 10 minutos.
+
+Banquete dos Heróis (V, G, M): Gera comida e bebida para você e até outras 12 criaturas, que demora uma hora para ser consumido. Criaturas participantes curam todas doenças e venenos, tornam-se imunes a veneno e medo, e recebem Vantagem em resistência de SAB. Seus PA máximos também aumentam em 2d10. 24 horas. Conjuração 10 minutos. Material 1000po.
+
+Conjurar Fadas (V, G): Invoca uma fada de ND até 6, a até 27m, amistosa para você e seus aliados e que obedece seus comandos. Caso perca a concentração fada não desaparece, e sim torna-se hostil e só desaparece após uma hora da conjuração. Conjuração 1 minuto. Concentração, max 1 hora. Melhoria: +1 ND / nível acima.
+
+Espalhar (V): Teletransporta até 5 alvos a até 9m para posições até 36m. Alvos devem ser depositados ao nível do chão. SAB nega.
+
+Palavra do Chamado (V): Teletransporta você e até 5 voluntários adjacentes para santuário previamente determinado. Deve conjurar magia em santuário para se ligar a ele.
+
+Portão Arcano (V, G): Cria dois portais de 3m de diâmetro, um a até 3m e outro a até 150m. Criaturas passando pó um portal saem no outro. Concentração, max 10 minutos.
+
+Transporte por Plantas (V, G, M): Até 5 criaturas podem entrar e uma planta Grande ou maior e sair e outra planta de seu tamanho ou maior no mesmo plano e que você já tenha visto ou tocado uma vez.
+
+
+Encantamento
+Sugestão em Massa (V, M): Faz sugestão plausível de até duas frases para até 12 criaturas a até 36m. Alvos seguem a sugestão até completarem-na ou até o fim da duração. SAB nega. 24 horas. Melhoria: 10 dias com nível 7, 30 dias com nível 8, um ano e um dia com nível 9.
+
+
+Evocação
+Barreira de Laminas (V, G): Cria muralha de até 30m de comprimento, ou circular de 18m de diâmetro, ambas com 6 de altura e 1,5 e grossura. Providencia cobertura e conta como terreno ruim. Uma criatura que comece o turno ou entre na área sofre 6d10 cortante (DES metade e salta para fora da área). Concentração, max 10 minutos.
+
+Contingência (V, G, M): Escolha uma magia de nível 5 ou menor, com conjuração de uma ação, e uma situação específica. Magia é conjurada sobre você tão logo situação ocorra. Só pode ter uma Contingência ativa. Material 1500po. 10 dias. Conjuração 10 minutos.
+
+Corrente de Relâmpagos (V, G, M): Relâmpago acerta alvo a até 45m, e então salta para até outros três alvos a até 9m dele, todos causando 10d8 elétrico (DES metade). Melhoria: +1 relâmpago / nível acima.
+
+Cura Completa (V, G): Uma criatura a até 18m cura 70 PA, e remove cegueira, surdez e doenças. Melhoria: +10 / nível acima.
+
+Esfera Congelante (V, G, M): Raio de 18m a 90m causa 10d6 frio. Caso acerte um corpo de água o congela a uma profundidade de 15cm em raio em 30m quadrados, por 1 minuto; criaturas na água são presas até passarem em FOR. Você pode deixar de arremessar o globo e segurá-lo em sua mão por até 1 minuto, podendo lançá-lo a até 12m ou com uma funda. CON metade. Melhoria: +1d6 / nível acima.
+
+Muralha de Gelo (V, G, M): Muralha de gelo a até 36m pode ser feita com 9m de comprimento, 3m de altura e 30cm de grossura, ou um domo de 6m de diâmetro. Criaturas na área ao surgir são empurradas para longe e sofrem 10d6 de frio. Muralha pode ser danificada, possui CA 5 e 30 PA por sessão de 3m, que caso destruída deixa ar frígido que causa 5d6 frio em quem passar. DES metade dano original. CON metade ar frígido. Concentração, max 10 minutos. Melhoria: +2d6 ao aparecer, e +1d6 ar frígido / nível acima.
+
+Raio de Sol (V, G, M): Luz em sua mão emana luz do sol brilhante em raio de 9m e mais 9m de luz baixa. Na conjuração e depois com uma ação gera linha de 18m que causa 6d8 radiante e deixa criaturas cegas por 1 turno. CON metade e nega condição, mas mortos-vivos, gosmas, fungos e semelhantes sempre falham. Concentração, max 1 minuto.
+
+
+Ilusão
+Ilusão Programada (V, G, M): Prende ilusão de até 9m cúbicos em área a até 36m. Ilusão é programada para permanecer por até 5 minutos uma vez que condições determinadas ocorram, e depois fica inativa por 10 minutos. Material 25po.
+
+Imagem Permanente (V, G, M): Gera ilusão de tamanho até Imenso a até 30m. Ilusão engana todos os sentidos, e pode ser movida e modificada à vontade. Permanente.
+
+Prisão Mental (V): Alvo a até 18m sofre 5d10 psíquico, considerado cego e Preso. Caso alvo seja movido pra fora da ilusão, faça ataque corpo-a-corpo através dela ou tente sair, sofre 10d10 psíquico e magia acaba. INT apenas dano primário. Concentração, máx 1 minuto.
+
+
+Necromancia
+Círculo da Morte (V, G, M): Criaturas em raio de 18m a até 45m sofrem 8d6 necrótico (CON metade). Foco 500po. Melhoria: +2d6 / nível acima.
+
+Criar Mortos-Vivos (V, G, M): Cria até 3 carniçais que lhe obedecem pela duração; ao fim da magia criatura é livre de seu controle. Pode ser conjurada de novo par assumir controle de até 3 carniçais criados. Podem ser controlados com uma Ação Bônus. 1 dia. Material 150po por cadáver. Melhoria: Até 4 carniçais com nível 7; cinco carniçais, dois inumanos ou dois lívidos com nível 8; seis carniçais, três lívidos ou inimigos, ou duas múmias com nível 9.
+
+Gaiola da Alma (V, G, M): Captura alma de humanoide morto a até 18m. Enquanto alma estiver presa criatura não pode ser revivida. Pode usar alma até seis vezes para ativar os seguintes efeitos: Roubar Vida: Ação bônus cura 2d8. Indagar Alma: Faz uma questão e recebe resposta curta (nenhuma ação), honesta e no melhor da habilidade. Emprestar Experiência: Ação bônus recebe Vantagem para próximo ataque, teste ou teste de resistência. Olhos dos Mortos: Com ação nomeia lugar que alvo viu em vida e cria lá um sensor invisível, visual e auditivo, por Concentração, máx 10 minutos. Foco 100po. 8 horas. Magia de Reação.
+
+Mau Olhado (V, G): Afeta uma criatura a até 18m com um dos seguintes: Sono: Fica inconsciente até ser acordado ou sofrer dano; Pânico: Fica Assustado, em todo turno deve se mover para longe de você; Enjoado: Desvantagem em todos os testes. SAB nega. Concentração, max 1 minuto.
+
+
+Transmutação
+Andar no Ar (V, G, M): Você e até 10 criaturas a até 9m assumem forma de nuvem, recebem deslocamento de voo 90m e resistência a dano físico de armas não-mágicas. Em forma de nuvem as únicas ações possíveis são Corrida ou voltar a forma normal, o que demora 1 minuto. Alvo em sua forma normal pode se tornar nuvem novamente com mais 1 minuto. 8 horas.
+
+Carne em Pedra (V, G, M): Alvo a até 18m é lentamente transformado em pedra. Caso falhe em resistência de CON fica preso, e no final de cada turno deve resistir de novo. Com três sucessos magia acaba, com três falhas vira pedra pela duração. Criaturas transformadas em pedra tem resistência a todo dano. Caso mantenha concentração por período total alvo é transformado em pedra permanentemente. Concentração, max 1 minuto.
+
+Criar Homúnculo (V, G, M): Sofre 2d4 que não pode ser reduzido, e cria um Homúnculo. Quando termina um Descanso Longo pode gastar até ½ seus Dados de Vida como se estivesse curando; o valor rolado diminui sua vida total e aumenta a total e atual do Homúnculo em valor igual. Essa redução não pode diminuir seus PA para menos que 1. Essa redução só é removida com a morte do Homúnculo. Só pode ter um Homúnculo ativo ao mesmo tempo. Foco 1000po. Conjuração 1 hora.
+
+Desintegrar (V, G, M): Alvo ou objeto a até 18m sofre 10d6+40 energia; caso seja levado a 0 é desintegrado junto com todos os itens não-mágicos. Desintegra automaticamente objetos soltos não-mágicos, ou criações de energia, grandes ou menores. Contra maiores desintegra cubos de 3m. DES nega. Melhoria: +3d6 / nível acima.
+
+Investidura da Chama (V, G): Você recebe os seguintes benefícios: Imunidade a fogo, resistência a frio; emana luz brilhante em 9m e mais 9m de luz baixa; criatura que entra ou termina turno adjacente a você sofre 1d10 fogo; com uma ação faz linha de 4,5m que causa 4d8 fogo (DES metade). Concentração, max 10 minutos.
+Investidura da Pedra (V, G): Você recebe os seguintes benefícios: Resistência a dano cortante, perfurante e esmagamento não-mágico; ignora terreno ruim de terra e pedra; pode se mover por terra e pedra sólida, mas não terminar movimento nela; com uma ação derruba criaturas a até 4,5m (DES nega). Concentração, max 10 minutos.
+Investidura do Gelo (V, G): Você recebe os seguintes benefícios: Imunidade a frio, resistência a fogo; ignora terreno ruim de gelo e neve; gera 3m de terreno ruim em volta de você; com uma ação faz cone de 4,5m que causa 4d6 frio e diminui deslocamento pela metade por 1 turno (CON metade e nega efeito). Concentração, max 10 minutos.
+Investidura do Vento (V, G): Você recebe os seguintes benefícios: Ataques a distância tem desvantagem contra você; ganha deslocamento de vôo 18m; com uma ação causa 2d10 esmagamento e empurra 3m criaturas até grandes em cubo de 4,5m a até 18m (CON metade e nega empurrar). Concentração, max 10 minutos.
+Mover Terra (V, G, M): Área de até 12m de lado a até 36m pode ser moldada como preferir, no máximo metade do tamanho a cada 10 minutos. Concentração, max 2 horas.
+
+Ossos da Terra (V, G): Cria até 6 pilares de 9m de altura e 1,5m de diâmetro a até 36m. Possuem CA 5 e 30PA, quando destruidos criam escombros que geram terreno ruim em raio de 3m até serem limpos. Criatura na área deve passar em resistência de DES ou ser levada ao topo (pode falhar caso queira). Caso não haja 9m de espaço pilar e criatura nele sofre 6d6 esmagamento, além da criatura ficar Presa. Com ação criatura pode tentar teste de FOR ou DES contra CD para se soltar. Melhoria: +2 pilares / nível acima.
+
+Transformação de Tenser (V, G, M): Pela duração não pode conjurar magias, e recebe os seguintes benefícios: 50 PA temporários; Vantagem para ataques armados; +2d12 dano com ataques armados; proficiência em todas armas e armaduras; proficiência em resistência de FOR e CON; ataca duas vezes ao invés de uma com ação Ataque. Ao fim da magia deve passar em resistência de CON CD 15 ou sofrer nível de exaustão. Concentração, máx 10 minutos.
+
+Nível 7
+
+Abjuração
+Restauração Maior (V, G, M): Alvo tocado recebe um dos benefícios: Diminui exaustão em um nível; remove um efeito de Feitiço ou Petrificação; remove uma maldição ou ligação com item amaldiçoado; restaura atributos a seus valores normais; recupera todos os PA. Material 100po.
+
+Símbolo (V, G, M): Como Glifo de Proteção, mas uma vez ativado preenche área de 18m de raio por 10 minutos, afetando quem entrar na área ou terminar seu turno nela com um dos efeitos, cada um com um teste diferente que o nega. Morte: 10d10 necrótico (CON); Discórdia: Intoxicado por 1 minuto, fica brigando e incapaz de comunicação eficaz (CON); Medo: Assustado por 1 minuto, derruba tudo e corre pelo menos 9m para longe do símbolo (SAB); Impotência: Enfeitiçado por 1 minuto, repleto de desespero (CAR); Insanidade: Louco por 1 minuto (INT); Dor: Incapacitado por 1 minuto (CON); Sono: Inconsciente por 10 minutos, até sofrer dano ou ser acordado (SAB); Atordoamento: Atordoado por 1 minuto (SAB). Permanente até ser descarregado. Conjuração 1 minuto. Material 1000po.
+
+
+Conjuração
+Conjurar Celestial (V, G): Invoca um celestial amistoso de ND até 4, a até 27m que obedece seus comandos. Conjuração 1 minuto. Concentração, max 1 hora. Melhoria: ND 5 com nível 9.
+
+Invocação Instantânea (V, G, M) [Ritual]: Escolha um objeto de até 5kg. Você o toca e deixa uma marca invisível. A qualquer momento depois gasta material para invocar item em sua mão ou adjacente. Caso o objeto esteja na posse de outra criatura magia não funciona, mas você sabe quem o possui e mais ou menos onde a criatura está. Conjuração 1 minuto. Material 1000po.
+
+Mansão Magnífica (V, G, M) [Ritual]: Cria mansão extradimensional de até 50 cubos de 3m, ricamente decorada e com alimento suficiente para um banquete de luxo para 100 pessoas, com até 100 servos semi-invisíveis e completamente obedientes. Apenas você e criaturas designadas podem entrar pelo portal, e você pode tornar o portal invisível. 24h. Foco 15po. Conjuração 1 minuto.
+
+Mudar de Plano (V, G, M): Você e até oito voluntários tocados são levados para outro plano de existência; ou para um círculo de teletransporte, caso saiba sua sequência rúnica. Também pode ser usado para banir uma criatura para outro plano (ataque, e então CAR nega). Foco 250po, ligado ao plano específico.
+
+Perdição Rastejante (V, G): Enxame de vermes cobre raio de 18m a até 150m. Criaturas que terminem turno no enxame ou movem-se por ele sofrem 4d6 perfurante e 4d6 veneno (CON metade). Pela duração da magia pode mover enxame até 6m. Concentração, max 1 minuto.
+
+Teletransporte (V): Teletransporta você e 5 criaturas a até 3m, ou objeto ou criatura que caiba em cubo de 3m para localização conhecida no mesmo plano de existência. Chance de sucesso depende de familiaridade com local. Círculo Permanente: Um círculo de teletransporte que você conheça a chave rúnica; Objeto Associado: Independente da localização você possui um objeto tirado do destino a no máximo 6 meses; Muito Familiar: Um local onde você já esteve muito e se sente à vontade. Visto Casualmente: Um lugar que tenha visto e estudado, mas que não conheça muito. Visto uma Vez: Um local que você tenha visto muito pouco, possivelmente através de espionagem. Destino Falso: Um lugar que não existe, ou que não existe mais, ou que não é mais familiar para você. As possibilidades são as seguintes. No alvo: Exatamente na localização. Fora do Alvo: É em uma direção aleatória, a 1d10 x 1d10 % da viagem feita de distância. Área Similar: Um lugar visual ou tematicamente semelhante, a alcance (ao menos é a mais próxima possível do alvo). Falha: Causa 3d10 de energia a todos e rola de novo, usando 1d20+80 ao invés de d100. Role 1d100 para determinar sucesso. Círculo Permanente ou Objeto Associado: 100% de chance no alvo; Muito Familiar: 01-05 falha, 06-13 similar, 14-24 fora, 25-00 no alvo. Visto Casualmente: 01-33 falha, 34-43 similar, 44-53 fora, 54-00 no alvo. Visto uma vez/Descrição: 01-43 falha, 44-53 similar, 54-73 fora, 74-00 no alvo. Destino falso: 01-50 falha, 51-100 similar.
+
+Templo dos Deuses (V, G, M): Templo de até 36m de lado surge a até 36m. Você decide aparência e detalhes. Templo tem uma porta e quantas janelas quiser (apenas você e quem designar pode abrir porta), iluminação e temperatura que preferir. Pode escolher criaturas normalmente afetadas por Proteção Contra Tendência para proibir sua entrada; criaturas do tipo devem passar em resistência de CAR ou serem incapazes de entrar por 24 horas. Mesmo que entre criatura reduz 1d4 de todos seus ataques, testes e resistências enquanto dentro. Criaturas dentro do templo são imunes a efeitos de Adivinhação. Sempre que criatura recupera PA dentro do templo com magia de nível 1 ou mais, recupera Chave adicional. Templo é contiguo com plano etéreo, e paredes são invulneráveis; é imune à antimagia, mas é destruído instantaneamente por Desintegrar. Conjurar uma vez por dia por 1 ano o torna permanente. Conjuração 1 hora. 24 horas.
+
+
+Encantamento
+Imobilizar Pessoa em Massa (V, G, M): Qualquer número de humanoides em cubo de 9m a até 36m é paralisado. SAB nega, e novamente a cada turno. Concentração, max 1 minuto.
+
+Palavra do Poder: Dor (V): Alvo visível a até 18m, com 100PA ou menos, sofre seguintes efeitos: Movimentos caem para 3m, Desvantagem em testes, ataques e resistências (exceto resistência de CON), e deve passar em resistência de CON para usar magias. CON nega, ao final de cada turno. Instantâneo.
+
+
+Evocação
+Bola de Fogo Atrasada (V, G, M): Gera conta flamejante a até 45m. Dano base 12d6 em raio de 6m (DES metade), mas a cada turno de concentração aumenta o dano em +1d6. Caso uma criatura mexa com a conta antes da explosão deve passar em resistência de DES ou explode prematuramente. Caso passe pode arremessar a conta a até 12m, explodindo em impacto. Concentração, max 1 turno. Melhoria: +1d6 inicial / nível acima.
+
+Coroa de Estrelas (V, G): Cria sete estrelas em volta de sua cabeça. Com ação bônus faz ataque a até 36m causando 4d12 radiante. Enquanto tiver 4+ estrelas emana luz brilhante e baixa em 9m; menos que isso emana apenas luz baixa em 9m. 1 hora ou até gastar todas as estrelas. Melhoria: +2 estrelas / nível acima.
+
+Espada do Mago (V, G, M): Espada de energia a até 18m ataca causando 3d10 de energia. Pode mover espada até 6m todo turno. Concentração, max 1 minuto. Foco 250po.
+
+Furacão (V, G): Furacão de 3m de raio e 9m de altura surge a até 90m. Pela duração pode usar ação para movê-lo até 9m. O furacão suga objetos médios ou menores soltos. Criaturas em contato com furacão sofrem 10d6 esmagamento (DES metade) e são presas (FOR nega, enormes ou maiores são imunes). Criaturas presas são movidas 1,5m para o centro do furacão ao começo de seus turnos, a não ser que esteja no topo, e são movidas junto com o furacão. Com uma ação pode fazer teste de FOR ou DES; caso passe deixa de estar presa e é arremessada 3d6x3m longe em direção aleatória. Concentração, max 1 minuto.
+Jaula de Energia (V, G, M): Gera gaiola de energia fechada de 3m de diâmetro ou com grades de 6m. Jaula fechada impede magias. Fuga extradimensional exige resistência de CAR, mas também se estende ao plano etéreo. Material 1500po. 1 hora.
+
+Palavra Divina (V): Alvos a até 9m sofrem efeito de acordo com PA atual: 50-: Surdo por 1 minuto; 40-: Cego e surdo por 10 minutos; 30-: Cego, surdo e atordoado por 1 hora; 20-: Morto. CAR nega. Celestial, Elemental, fada ou infernal que falhe no teste é banido para seu plano de origem e não pode retornar por 24h.
+
+Spray Prismático (V, G, M): Cone de 18m afeta criaturas de acordo com cor. 1 - Vermelho: 10d6 fogo; 2 - Laranja: 10d6 ácido; 3 - Amarelo: 10d6 elétrico; 4 - Verde: 10d6 veneno; 5 - Azul: 10d6 frio; 6 - Anil: Afetado como Carne em Pedra; 7 - Violeta: Cego e no começo do próximo turno deve passar em resistência de SAB, se passar é curado, se não é lançado a outro plano; 8 - Branco: Cego por 1 minuto e role novamente. DES nega ou metade caso dano.
+
+Tempestade de Fogo (V, G): Até 10 cubos contíguos de 3m até 45m causam 7d10 de fogo e incendeiam objetos soltos. DES metade. Pode escolher que plantas não sejam afetadas.
+
+
+Ilusão
+Invisibilidade em Massa (V, G, M): Voluntário a até 36 torna-se centro de esfera de invisibilidade de 18m, afetando todos os voluntários. Criaturas afetadas podem ver uma a outra. Caso uma criatura ataque magia acaba para todas. Concentração, max 10 minutos.
+
+Miragem Arcana (V, G): Área de até 1 milha quadrada parece outro terreno para todos sentidos, inclusive estruturas, mas não criaturas. 10 dias. Conjuração 10 minutos.
+
+Projetar Imagem (V, G, M): Gera cópia ilusória de você em até 500 milhas; pode trocar entre seus sentidos ou enxergar através da cópia. Termina caso sofra dano. Foco 5 po. Concentração, max 1 dia.
+
+Simulacro (V, G, M): Cria cópia ilusória de humanoide ou Besta ao alcance de toque a duração inteira. Cópia é amistosa a você e a quem designar, obedece seus comandos e age no seu turno. Utiliza as estatísticas de alvo, mas possui apenas ½ seus PA, e não é capaz de recuperar habilidades gastas. Só pode ter um Simulacro ativo ao mesmo tempo. Permanente. Conjuração 12 horas. Material 1500po.
+
+
+Necromancia
+Dedo da Morte (V, G): Alvo a até 18m sofre 7d8+30. Um humanoide morto por essa magia se ergue como um zumbi permanentemente sob seu comando. CON metade.
+
+Destruição (V, G, M): Alvo a até 18m sofre 15d6 necrótico (CON metade). Caso seja derrubado a 0 morre e corpo é destruído, sobrando apenas roupas e equipamentos. Material símbolo sagrado de 500po.
+
+Ressurreição (V, G, M): Como Ressuscitar os mortos, mas morto até um século, com todos os PA e partes perdidas. Caso ressuscite um alvo morto a mais de 1 ano você não pode conjura magias e recebe Desvantagem em testes de resistência até um Descanso Longo. Conjuração 1 hora. Material 1000po.
+
+
+Transmutação
+Controlar Clima (V, G, M): Controla clima em até 5 milhas. Pode determinar precipitação, temperatura e vento, e mudanças demoram 1d4x10 minutos para ocorrer. Conjuração 10 minutos. Concentração, max 8 horas.
+
+Eterealidade (V, G): Vai para o plano etéreo e torna-se incorpóreo e invisível. Pode mover-se para cima e para baixo como se fosse terreno ruim. Pode ser usado para viajar para outros planos. Até 8 horas. Melhoria: +3 voluntários / nível acima.
+
+Inverter Gravidade (V, G, M): Criaturas e objetos em raio de 15m e 30m de altura a até 30m caem do chão até topo da área em 1 turno. Caso haja teto ou semelhante alvos sofrem dano de queda. Ao fim da duração caem de volta ao chão. DES nega, se agarrando em algo. Concentração, max 1 minuto.
+
+Regeneração (V, G, M): Alvo tocado cura 4d8+15, e então +1 PA por minuto; após 2 minutos membros perdidos são regenerados. 1 hora. Conjuração 1 minuto.
+
+
+Nível 8
+
+Abjuração
+Aura Sagrada (V, G, M): Alvos a até 9 emitem luz baixa de 1,5m, recebem Vantagem em testes de resistência e oponentes Desvantagem em ataques contra. Mortos-vivos e infernais que ataquem uma criatura protegida ficam Cegos pela duração (CON nega). Foco relicário de 1000po. Concentração, max 1 minuto.
+
+Campo Antimagia (V, G, M): Aura de 3m em você impede magias dentro da are de formas diversas. Efeitos e itens dentro da área são suprimidos, magias não entram nem saem, inclusive magias em área, e criaturas invocadas somem. Não é afetado por Dissipar Magia ou equivalentes. Concentração, max 1h.
+
+Mente Vazia (V, G): Alvo tocado torna-se imune a dano psíquico, leitura de mente, emoções e magias de adivinhação, nem pode ser Enfeitiçado. 24 horas.
+
+
+Conjuração
+Demiplano (V): Cria uma porta que leva a um demiplano no formato de uma sala vazia de 9m de lado, de pedra ou madeira. Ao fim da magia porta some junto. Ao usar a magia de novo pode criar um novo plano ou conectar a porta a um demiplano anteriormente criado. Adicionalmente, caso conheça os detalhes de um demiplano criado com essa magia, pode conectar sua porta a ele. 1 hora.
+
+Fortaleza Poderosa (V, G, M): Uma fortaleza de pedra de até 36m de lado surge a até 1 milha. Fortaleza tem 4 torres de 9m de altura e 4 de lado e muros de 24m de comprimento, 3m de grossura e 6m de altura as conectando. Muros podem ter até 4 portas de pedra. Fortaleza central tem 15m de lado, e três andares de 3m de altura cada. Fortaleza interna pode ser distribuída e decorada como preferir, e contém comida suficiente para fornecer banquete para até 100 pessoas por dia. 100 servos invisíveis obedecem comandos de quem designar. Permanece por 7 dias ou até usar em outro lugar. Uma vez usado a cada 7 dias no mesmo lugar por 1 ano torna-se permanente. Conjuração 1 minuto. Material 500po.
+Labirinto (V, G): Alvo a até 18m é banido para labirinto extradimensional. Com uma ação pode tentar escapar com INT CD 20. Concentração, max 10 minutos.
+
+Nuvem Incendiária (V, G): Nuvem de 6m de raio a 45m gera obscurecimento e causa 10d8 ao surgir e a cada criatura que entre na nuvem ou termine seu turno nela. A nuvem se afasta de você 3m por turno. DES metade.
+
+Prender a Alma (V, G, M): Alvo a até 18m é preso dentro de gema, ficando apenas uma pequena figura. Você pode se comunicar telepaticamente com alvo, e ele é libertado ao quebrar a gema. SAB nega, desvantagem caso nome verdadeiro de alvo tenha sido falado. Material gema de 1000po por DV de alvo.
+
+Prender Elemental (V, G, M): Convoca um Elemental que age Amistoso enquanto manter a concentração (max 1 hora) e hostil tão logo perca (pode usar uma ação para dispensá-lo. Antes do fim da duração pode prender Elemental a um dever específico ou por uma duração. O Elemental parte para realizar a missão imediatamente, mas caso não consiga completá-la em 20 dias aparece no 21º a até 30m de você e tenta lhe matar. Caso o prenda para lhe acompanhar em aventuras conta como membro e divide XP.
+
+Tsunami (V, G): Gera onda de 90m de largura, 90 de altura e 15 e grossura. A partir de seu próximo turno onda se move 15m para longe de você e perde 15m de altura e 1d10 de dano, até chegar em 0. Criaturas Enormes ou menores pegas na onda ou seu caminho sofrem 6d10 esmagamento (FOR metade) por turno. Criaturas pegas podem tentar nadar para longe com Atletismo contra CD. Concentração, max 6 turnos.
+
+
+Encantamento
+Antipatia/Simpatia (V, G, M): Escolha um objeto Enorme ou menor a até 9m, ou área de até 60m cúbicos, e um tipo de criatura inteligente (como dragão vermelho ou goblin), ou uma tendência específica (dois eixos). Objeto ou área afeta criaturas a até 18 ou que possam vê-lo (SAB nega, mas é afetado novamente após 1 minuto), de uma das seguintes formas: Antipatia: Alvo fica Assustado até deixar o alcance e não vê-lo mais (SAB nega, mas é afetado novamente após 1 minuto). Simpatia: Alvo tenta ficar na área ou alcance alvo, mas recebe um novo teste cada vez que sofre dano. Conjuração 1h. 10 dias.
+
+Dança Irresistível (V): Alvo a até 9m perde deslocamento e gasta ações dançando, além de sofre Desvantagem em resistência e ataques de DES. SAB nega, e novamente ao fim de cada turno. Concentração, max 1 minuto.
+
+Dominar Monstro (V, G, M): Criatura a até 18m é dominada. Criatura é enfeitiçada e possui elo mental que permite que a comande. Gastando sua ação pode controlá-la inteiramente, decidindo todas suas ações; é possível até fazer Reações, mas deve gastar sua Reação para tal. Criatura recebe uma nova resistência cada vez que você ou seus companheiros fazem algo ruim para ela. SAB nega, Vantagem se você ou seus aliados estiverem o enfrentando. Concentração, max 1 hora. Melhoria: Max 8 horas com nível 9.
+
+Enfeitiçar Monstro em Massa (V): Qualquer número de criaturas em cubo de 12m a até 30m são Enfeitiçadas. SAB nega, com vantagem caso você ou seus aliados estejam lutando contra ela. 1 hora.
+
+Palavra do Poder: Atordoar (V): Alvo a até 18m com 150 PA ou menos é atordoado. CON ao final de cada turno termina.
+
+
+Evocação
+Escuridão Enlouquecedora (V, M): Escuridão mágica preenche raio de 18m a até 45m. Criaturas que comecem turno na área sofrem 8d8 psíquico. SAB metade. Concentração, máx 10 minutos.
+
+Explosão Solar (V, G, M): Luz brilhante em raio de 18m a até 45m causa 12d6 radiante e cega por 1 minuto. CON metade e nega condição, e novamente ao final de cada turno, mas mortos-vivos e gosmas tem Desvantagem.
+
+Telepatia (V, G, M): Cria elo entre você e voluntário conhecido a qualquer distância, permitindo comunicação telepática. 24 horas.
+
+Terremoto (V, G, M): Cria tremor em raio de 30m a até 150m. Tremor é terreno ruim e força resistência de CON em criaturas conjurando magias. Ao final de seu turno criaturas na área são derrubadas, e criaturas com 50 PA ou menos não podem agir até sair da área (DES nega). A magia possui efeito adicionais dependendo do terreno. Aberto: Criaturas médias ou menores caem em fissuras de 1d10x3m (DES nega), com mesma CD para escalar; Área Fechada: Escombros caem, causando 5d6, derrubando e enterrando criaturas (DES metade e nega condição); Colina: Avalanche tão longa quanto local é alto, enterra criaturas (DES nega); Estruturas: Causa 50 de dano a estruturas a cada turno; em 0 caem. Concentração, max 1 minuto.
+
+
+
+Ilusão
+Dragão Ilusório (V): Escolha um tipo de energia entre ácido, frio, fogo, eletricidade, necrótico ou veneno. Cria dragão sombrio Enorme a até 36m. Oponentes que veem o dragão ficam Assustados por 1 minuto (SAB nega, e novamente ao fim de cada turno em que não tiver linha de visão para o dragão). Com ação bônus pode mover dragão até 18m, e em qualquer parte do movimento fazê-lo soprar cone de 18m que causa 7d6 da energia escolhida na conjuração (INT metade). Ilusão é tangível mas invulnerável. Com uma ação criaturas podem tentar Investigação contra CD; quem passar nota a ilusão e recebe Vantagem contra seu sopro. Concentração, máx 1 minuto.
+
+
+Necromancia
+Clone (V, G, M): Cria clone de criatura dentro de foco, que amadurece em 120 dias. Após esse período, caso criatura morra sua alma é transferida para o clone imediatamente. Conjuração 1 hora. Material 1000po, Foco receptáculo preparado e selado de 2000po.
+
+Secagem Horrível (V, G, M): Criaturas em raio de 9m a até 45m sofrem 12d8 necrótico. Construtos e mortos-vivos são imunes. Plantas e elementais de água tem desvantagem no teste. CON metade. Plantas que não são criaturas morrem.
+
+Transmutação
+Formas Animais (V, G): Voluntários a até 9m se transformam em Bestas Grandes ou menores. Funciona como Forma Selvagem de Druida, mas limitado a ND 4. Equipamento molda-se à forma. Concentração, máximo 24 horas.
+
+Lábia (V): Pela duração pode trocar rolagem de testes de CAR por 15. Magias de detecção de verdade detectam suas palavras como verdade. 1 hora.
+
+Sequestro (V, G, M): Voluntário tocado é colocado em suspensa animada, não é detectado por sensores de adivinhação e é imune a adivinhações. Também pode tornar alvo invisível pela duração. Caso deseje pode determinar uma condição para que magia termine antes, que deve ocorrer a até uma milha do alvo; magia também termina antes caso alvo sofra dano. Permanente. Material 5000po.
+
+
+Nível 9
+
+Abjuração
+Aprisionamento (V, G, M): Criatura a até 9m é presa de uma das seguintes formas. Enquanto sobre efeito dessa magia ele não envelhece, não precisa comer, beber, respirar e magias de Adivinhação não tem efeito sobre ele. Enterrado: Preso em cápsula de energia dentro da terra; Acorrentado: Preso no local; Prisão: Preso à área fechada como prisão ou labirinto; Contenção Mínima: Encolhido a dois centímetros ou menos e preso dentro de um objeto como jarra ou gema, sem poder tomar ações; Sono: Dorme e não pode ser acordado. Além desses efeitos, caso alvo esteja sob efeito de Antipatia a duração torna-se Permanente também. Pode especificar uma condição para libertar a criatura, que pode ser baseada em nome, tendência, ou outras qualidades ou eventos observáveis. Só é afetado por Campo Antimagia e Disjunção. SAB nega. Permanente. Foco 500po/DV do alvo; só pode ter uma instância da magia por Foco usado. Conjuração 1 minuto.
+
+Invulnerabilidade (V, G, M): Torna-se imune a todo dano pela duração. Concentração, máx 10 minutos. Material 500po.
+
+Muralha Prismática (V, G, M): Muralha de até 27m de comprimento e 9m de altura a até 18m; ou esfera de 9m de diâmetro bloqueia tudo, exceto você e criaturas designadas. Emana luz brilhante em 30m e luz baixa em mais 30m; criaturas se aproximando a 6m ficam cegas por 1 minuto (CON nega). Quando uma criatura tenta atravessar é afetada por cada uma das camadas, uma de cada vez, de acordo com Spray Prismático. A muralha pode ser destruída uma camada por vez, das seguintes formas. 1 - Vermelho: 25+ dano de frio; 2 - Laranja: Vento forte; 3 - Amarelo: 60+ dano de energia; 4 - Verde: Portal mágico ou Passar Parede; 5 - Azul: 25+ dano de fogo; 6 - Anil: Luz brilhante de magia de nível igual; 7 - Violeta: Dissipar magia que possa afetar magia desse nível; 8 - Branco: Escuridão sobrenatural de magia de nível igual. 10 minutos.
+
+
+Adivinhação
+Sexto Sentido (V, G, M): Alvo tocado não pode ser surpreso e tem vantagem em ataques, testes e resistência, bem como oponentes tem Desvantagem em ataques contra ele. Cada conjurador só pode ter uma ativa. Conjuração 1 minuto. 8 horas.
+
+
+Conjuração
+Cura Completa em Massa (V, G): Cura 500 PA divididos da forma que preferir entre criaturas a até 18m.
+
+Desejo (V): Torce a realidade de acordo com um pedido. Pedidos seguros e garantidos são duplicar uma magia de nível até 8; criar objeto mundano de até 25000po; criar um item mágico Comum, Incomum ou Raro; curar todo PA e garantir Restauração Maior a até 20 criaturas; garantir a até 10 criaturas imunidade a um tipo de dano, efeito mágico ou ataque por 8 horas; forçar uma re-rolagem de qualquer rolagem feita desde o começo do turno passado. Outros desejos são possíveis, mas exigem cuidado com as palavras, pois a realidade tenta de acomodar da forma mais fácil. Uma vez conjurado para qualquer coisa além de imitar magias você perde a capacidade de conjurar magias até um descanso prolongado, e sua FOR cai para 3 por 2d4 dias. Cada dia de descanso completo conta como dois para sua recuperação.
+
+Portal (V, G, M): Cria portal a até 18m, ligando dos planos e permitindo passagem livre. Na conjuração pode falar o nome verdadeiro de uma criado portal puxa criatura para seu plano, apesar de que não garante nenhum controle sobre a criatura em questão. Foco diamante 5000po.
+
+Tempestade da Vingança (V, G): Tempestade de até 100m de raio a céu aberto se forma em ponto que possa ver. Criaturas debaixo da tempestade sofre 2d6 trovejante e ficam surdos por 5 minutos (CON nega). A cada tuno efeito diferente ocorre. 2º turno: Chuva ácida causa 1d6; 3º turno: Seis relâmpagos acertam seis criaturas diferentes, causando 10d6 cada (DES metade); 4º: Pedras caem, todos sofrem 2d6 esmagamento; 5º ao 10º: Chuva e vento fortes geram obscurecimento pesado e causa 1d6 de frio, ataques armados a distância são impossíveis, e conta como distração severa para concentrar magias. Concentração, max 1 minuto.
+
+Encantamento
+Grito Psíquico (G): Até 10 alvos a até 27m sofrem 14d6 psíquico e são Atordoados. INT metade e nega atordoamento. INT ao final de cada turno remove atordoamento. Criaturas com INT 2- não são afetadas. Instantâneo.
+
+Imobilizar Monstro em Massa (V, G, M): Qualquer número de criaturas em cubo de 9m a até 36m é paralisado. SAB nega, e novamente a cada turno. Concentração, max 1 minutos.
+Palavra do Poder: Matar (V): Alvo a até 18m com 100 PA ou menos morre.
+
+
+Evocação
+Chuva de Meteoros (V, G): Quatro explosões de raio de 12m a até uma milha causam 20d6 esmagamento e 20d6 fogo cada. Cada criatura só pode ser afetada uma única vez. Incendeia objetos inflamáveis soltos. DES metade.
+
+Palavra de Poder: Cura (V, G): Alvo tocado cura todo PA, e remove as condições Enfeitiçado, Assustado, Paralisado ou Atordoado. Caso esteja caído pode usar uma Reação para se levantar.
+
+
+Ilusão
+Estranho (V, G, M): Criaturas em raio de 9m a até 36m ficam Assustadas, e sofrem 4d10 ao começo de cada turno. SAB nega, e novamente ao começo de cada turno.
+
+
+Necromancia
+Projeção Astral (V, G, M): Você e até 8 voluntários em raio de 3m tem corpo projetado ao Plano Astral. Ao cair a 0 PA no plano astral criatura acorda. Duração especial. Conjuração 1 hora. Material 1 jacinto de 1000po e 1 barra de prata de 100po por criatura.
+
+Ressurreição Verdadeira (V, G, M): Como Ressurreição, mas até 200 anos, e mesmo que não tenha mais corpo. Conjuração 1 hora. Material 25000po.
+
+
+Transmutação
+Metamorfose em Massa (V, G, M): Como Metamorfose, mas até 10 alvos a até 36m, mas ND até igual ao de alvo ou ½ seu nível caso não possua ND, e alvo mantém seus PA. Alvo recebe PA temporário igual ao máximo da forma, e efeito acaba para ele quando esses PA temporários acabam. Concentração, max 1 hora. Foco 1500po.
+
+Metamorfose Verdadeira (V, G, M): Transforma alvo a até 9m de uma das formas. Criatura em Criatura: Criatura é transformada em outra com ND até igual nível. Funciona como Forma Selvagem do Druida; Objeto em Criatura: Objeto se transforma em forma até igual seu tamanho de ND até 9, é amistoso para você, obedece seus comandos e age no seu turno; Criatura em Objeto: Vira objeto e não possui memória do tempo em forma de objeto. SAB nega. Criaturas involuntárias com 300PA+ são imunes. Concentração, max 1 hora.
+
+Parar o Tempo (V): Recebe 1d4+1 turnos de tempo aparente para agir. Magia acaba antes caso afete uma criatura que não você, um objeto carregado por outra criatura ou caso se afaste mais de 300m do ponto onde começou.
+
+

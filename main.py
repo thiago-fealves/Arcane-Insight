@@ -1,24 +1,29 @@
 #Importações 
-import discord
-import discord.ext
-from discord.ext import commands
 import os
 import dotenv
 from dotenv import load_dotenv
 import google.generativeai as genai
+import asyncio
+import nextcord # type: ignore
+from nextcord.ext import commands # type: ignore
+from nextcord import Interaction,SlashOption # type: ignore
+import json
 
-#Variáveis
+
+#Variaveis
 load_dotenv()
 apikey=os.getenv('apikey')
 token=os.getenv('token')
-intents = discord.Intents.default()
+intents = nextcord.Intents.default()
 intents.messages=True
 intents.message_content = True
+database='dnd5e.spells.json'
+data=json.loads(open(database,encoding='utf8').read())
 
 # configurando aparência do bot e criando sua instância
-activity = discord.Game(name="D&D 5e")
-client=discord.Client(intents=intents)
-bot = commands.Bot(command_prefix='!',activity=activity,status=discord.Status.idle,intents=intents)
+activity = nextcord.Game(name="D&D 5e")
+client=nextcord.Client(intents=intents)
+bot = commands.Bot(command_prefix='!',activity=activity,status=nextcord.Status.idle,intents=intents)
 bot.remove_command('help')
 
 #configurando o gemini
@@ -49,15 +54,9 @@ safety_settings = [
     "threshold": "BLOCK_MEDIUM_AND_ABOVE"
   },
 ]
-
-model = genai.GenerativeModel(model_name="gemini-1.5-pro-latest", 
+model = genai.GenerativeModel(model_name="gemini-pro", 
 generation_config=generation_config, safety_settings=safety_settings)
-convo = model.start_chat(history=[
-  {
-    "role": "user",
-    "parts": ["Aja como um oráculo mágico. Você deve se comunicar somente respondendo perguntas sobre as magias de dnd 5e, caso te perguntem sobre qualquer outro assunto ou a magia perguntada não exista, sua resposta padrão será \"A oráculo não vai responder a essa pergunta\"\n\nPergunta: Escudo\nResposta: Nível: 1\nEscola: Abjuração\nTempo de Conjuração: 1 reação, que você toma quando é alvo de um ataque ou magia.\nAlcance: Pessoal\nComponentes: V, S\nDuração: 1 rodada\nEfeitos:A magia Escudo concede ao conjurador um bônus de +5 na Classe de Armadura (CA) até o início do seu próximo turno.\nPergunta: Eu posso usar a magia escudo com as mãos amarradas?\nResposta: Não, a magia escudo possui componente somático, o que exige que o conjurador gesticule para iniciar a magia\nPergunta: Eu consigo usar a magia escudo com a boca tampada?\nResposta: Não, a magia escudo exige componente vocal e portanto é preciso que o conjurador recite para executa-la"]
-  }])
-
+prompt_inicial =["Aja como um oráculo mágico. Você deve responder apenas perguntas relacionadas ao tema geral \"magias de dnd 5e\", não se prenda somente a respostas formatadas como a dos exemplos a seguir, responda perguntas mais gerais interpretando a magia que lhe será fornecida de acordo com a pergunta que também será fornecida, além disso, prefira respostas objetivas e não inclua títulos,inclua todos os detalhes da magia, incluindo a descrição completa dela em sua resposta,incluindo duração, alcance e etc,os componentes estão abreviados em S para somático, V para verbal e M para material confira sempre os componentes da magia antes de responder para garantir que não existam erros.\nExemplos:\nPergunta: Eu posso usar a magia escudo arcano com as mãos amarradas?\nResposta: Não, a magia escudo arcano possui componente somático, o que exige que o conjurador gesticule para iniciar a magia\nPergunta: Eu consigo usar a magia escudo com a boca tampada?\nResposta: Não, a magia escudo exige componente vocal e portanto é preciso que o conjurador recite para executa-la\nPergunta: Eu consigo usar a magia ataque certeiro com as mãos amarradas?\nResposta: Sim, a magia ataque certeiro não exige componente somático, portanto, isso não vai te impedir de executar a magia"]
 
 # Mensagem para indicar que o bot está funcionando
 @bot.event
@@ -69,13 +68,19 @@ async def help(ctx):
     await ctx.reply(text)
 #Comando de ajuda
 # Primeiro comando
-@bot.command(aliases=['m','Magia'])
-async def magia(ctx,*magia):
-    mensagem=''
-    for m in magia:
-        mensagem+=f' {m}'
-    convo.send_message(mensagem)
-    await ctx.reply(convo.last.text)
-
+@bot.command(alisase=['g'])
+async def grimorio(ctx, *entrada:str):
+    entrada=' '.join(entrada)
+    prompt=entrada.split(':')
+    magia_encontrada=''
+    magia=prompt[0]
+    prompt=prompt[1]
+    for entry in data["entries"]:
+      if data["entries"][entry]["name"].lower() == magia.lower():
+           magia_encontrada=data["entries"][entry]["description"]
+           break
+    mensagem=f'{prompt_inicial}\n{magia_encontrada}\n{prompt}'
+    response=model.generate_content(mensagem)
+    await ctx.reply(response.text)
 # Roda o bot
 bot.run(token)
