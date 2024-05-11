@@ -28,7 +28,7 @@ O Arcane Insights se destaca por sua capacidade de fornecer informações de for
 - O Arcane Insight reconhece linguagem natural e fará o seu melhor para entender suas solicitações.
 - Seja criativo e explore as diversas possibilidades que o bot oferece.
 #### Exemplos:
-`!grimorio Bola de Fogo`
-`!grimorio qual magia me permite criar uma parede de vento?`
-`!grimorio Consigo usar magia ataque certeiro enquanto estou amarrado?`
+- `!grimorio Bola de Fogo`
+- `!grimorio qual magia me permite criar uma parede de vento?`
+- `!grimorio Consigo usar magia ataque certeiro enquanto estou amarrado?`
 
