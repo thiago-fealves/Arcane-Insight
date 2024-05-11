@@ -2,10 +2,12 @@
 #### Domine os Mistérios Arcanos e Aprimore Sua Aventura com o Arcane Insight!
 ![image](https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/a2cdf4ab-4e38-4dff-8c5e-4c7899e16813)
 
-
 Este bot Discord oferece uma gama poderosa de recursos para auxiliar jogadores de Dungeons and Dragons 5e na escolha e utilização de magias. Seja você um mestre experiente ou um novato em busca de conhecimento, o Arcane Insights está aqui para guiá-lo pelos caminhos da magia.
 
 O Arcane Insights foi criado como um projeto para a Imersão em Inteligência Artificial Google e Alura, implementando em conjunto as APIs do Discord e do Gemini.
+
+# Demo:
+
 
 ## Um Aliado Essencial em Sua Jornada:
 
@@ -32,6 +34,8 @@ O Arcane Insights se destaca por sua capacidade de fornecer informações de for
 #### Exemplos:
 - `!grimorio Bola de Fogo`
 - `!grimorio qual magia me permite criar uma parede de vento?`
+  ![image](https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/9b6035fc-41d8-4e23-a002-475550e5acdc)
+
 - `!grimorio Consigo usar magia ataque certeiro enquanto estou amarrado?`
 
 Fonte do arquivo json(que foi modificado) com as magias: https://gitlab.com/fvtt-brasil/dnd5e/-/tree/master/dnd5e_pt-BR/lang/pt-BR/compendium
