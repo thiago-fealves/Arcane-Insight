@@ -33,12 +33,15 @@ O Arcane Insights se destaca por sua capacidade de fornecer informações de for
 - Seja criativo e explore as diversas possibilidades que o bot oferece.
 #### Exemplos:
 - `!g bola de fogo`
+  
   ![image](https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/fe94f65b-a213-49a4-87b5-f977d972d928)
 
 - `!grimorio qual magia consigo usar para criar uma parede de vento?`
+  
   ![image](https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/9b6035fc-41d8-4e23-a002-475550e5acdc)
 
 - `!grimorio Consigo usar magia ataque certeiro com as mãos amarradas?`
+  
   ![image](https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/b5816e05-cf94-433d-8edc-0e9cb82a3947)
 
 
