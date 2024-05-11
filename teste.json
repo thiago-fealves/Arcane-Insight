@@ -1,8 +1,0 @@
-{
-  "Flecha Ácida": {
-    "description": "<p>Uma flecha com um rastro verde cintilante voa em direção ao alvo dentro do alcance e explode, borrifando ácido. Faça um ataque mágico à distância contra o alvo. Em caso de acerto, o alvo sofre 4d4 pontos de dano ácido imediatamente e 2d4 pontos de dano ácido ao final do próximo turno dele. Se errar, a flecha borrifa ácido no alvo causando metade do dano inicial e não causa dano ao final do próximo turno dele.</p>\n<p><strong>Em Círculos Superiores.</strong> Ao conjurar esta magia usando um espaço de magia de 3º círculo ou superior, o dano (tanto o inicial quanto o final) aumenta em 1d4 para cada círculo do espaço acima do 2º.</p>"
-  },
-  "Bolha Ácida": {
-    "description": "<p>Você lança uma bolha de ácido. Escolha uma ou duas criaturas à sua vista, dentro do alcance da magia. Se escolher duas, elas devem estar a 1,5 metro [5 ft.] uma da outra. Um alvo deve ser bem-sucedido em uma salvaguarda de Destreza. Se falhar, sofre 1d6 pontos de dano ácido.</p><p>O dano desta magia aumenta em 1d6 quando você alcança o 5º nível (2d6), 11º nível (3d6) e 17º nível (4d6).</p>"
-  }
-}
