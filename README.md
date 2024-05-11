@@ -36,7 +36,7 @@ O Arcane Insights se destaca por sua capacidade de fornecer informações de for
 - `!grimorio qual magia consigo usar para criar uma parede de vento?`
   ![image](https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/9b6035fc-41d8-4e23-a002-475550e5acdc)
 
-- `!grimorio Consigo usar magia ataque certeiro enquanto estou amarrado?`
+- `!grimorio Consigo usar magia ataque certeiro com as mãos amarradas?`
   ![image](https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/b5816e05-cf94-433d-8edc-0e9cb82a3947)
 
 
