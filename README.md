@@ -33,7 +33,7 @@ O Arcane Insights se destaca por sua capacidade de fornecer informações de for
 - Seja criativo e explore as diversas possibilidades que o bot oferece.
 #### Exemplos:
 - `!grimorio Bola de Fogo`
-- `!grimorio qual magia me permite criar uma parede de vento?`
+- `!grimorio qual magia consigo usar para criar uma parede de vento?`
   ![image](https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/9b6035fc-41d8-4e23-a002-475550e5acdc)
 
 - `!grimorio Consigo usar magia ataque certeiro enquanto estou amarrado?`
