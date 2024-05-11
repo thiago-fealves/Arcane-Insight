@@ -24,8 +24,10 @@ O Arcane Insights se destaca por sua capacidade de fornecer informações de for
 - Descubra combinações sinérgicas entre diferentes magias.
   
 ## Utilização:
-- Utilize os comandos`!grimorio {prompt}` ou `!g {prompt}` para interagir com o bot
+- Utilize os comandos `!grimorio {prompt}` ou `!g {prompt}` para interagir com o bot
 - O Arcane Insight reconhece linguagem natural e fará o seu melhor para entender suas solicitações.
+
+Fonte do arquivo json(que foi modificado) com as magias: https://gitlab.com/fvtt-brasil/dnd5e/-/tree/master/dnd5e_pt-BR/lang/pt-BR/compendium
 - Seja criativo e explore as diversas possibilidades que o bot oferece.
 #### Exemplos:
 - `!grimorio Bola de Fogo`
