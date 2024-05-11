@@ -9,6 +9,10 @@ O Arcane Insights foi criado como um projeto para a Imersão em Inteligência Ar
 # Demo:
 
 
+https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/6955d2fe-e48f-45e4-a36a-9ae5bb880045
+
+
+
 ## Um Aliado Essencial em Sua Jornada:
 
 O Arcane Insights se destaca por sua capacidade de fornecer informações de forma clara, concisa e acessível. Através do modelo de linguagem natural do Gemini, o bot torna o conhecimento mágico disponível para todos, independentemente do nível de experiência ou familiaridade com as regras.
