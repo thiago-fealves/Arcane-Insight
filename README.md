@@ -2,7 +2,9 @@
 #### Domine os Mistérios Arcanos e Aprimore Sua Aventura com o Arcane Insight!
 ![image](https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/a2cdf4ab-4e38-4dff-8c5e-4c7899e16813)
 
-Este bot Discord oferece uma gama poderosa de recursos para auxiliar jogadores de Dungeons and Dragons 5e na escolha e utilização de magias. Seja você um mestre experiente ou um novato em busca de conhecimento, o Arcane Insights está aqui para guiá-lo pelos caminhos da magia.
+Desde 1974 a franquia Dungeons and Dragons vem angariando novos jogadores, sendo uma grande referência e a principal porta de entrada para o mundo dos RPGs(Abreviação para Role Playing Games) de tabuleiro.
+
+Com o intuito de trazer mais qualidade de vida para esse público em crescimento foi criado este bot do Discord.Ele oferece uma gama poderosa de recursos para auxiliar jogadores de Dungeons and Dragons 5e na escolha e utilização de magias. Seja você um mestre experiente ou um novato em busca de conhecimento, o Arcane Insights está aqui para guiá-lo pelos caminhos da magia.
 
 O Arcane Insights foi criado como um projeto para a Imersão em Inteligência Artificial Google e Alura, implementando em conjunto as APIs do Discord e do Gemini.
 
@@ -26,7 +28,7 @@ O Arcane Insights se destaca por sua capacidade de fornecer informações de for
 ### Busca inteligente: 
 - Faça perguntas específicas e deixe que o Arcane Insight entenda o contexto de sua situação e te ajude a achar a magia certa para cada situação.
 - Encontre magias que se encaixam em seu estilo de jogo, objetivos e desafios da campanha.
-- Descubra combinações sinérgicas entre diferentes magias.
+- Descubra combinações sinérgicas entre diferentes feitiços.
   
 ## Utilização:
 - Utilize os comandos `!grimorio {prompt}` ou `!g {prompt}` para interagir com o bot
