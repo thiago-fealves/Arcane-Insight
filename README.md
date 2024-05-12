@@ -2,6 +2,8 @@
 #### Domine os Mistérios Arcanos e Aprimore Sua Aventura com o Arcane Insight!
 ![image](https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/a2cdf4ab-4e38-4dff-8c5e-4c7899e16813)
 
+Link de Convite: https://discord.com/oauth2/authorize?client_id=1237527410493231246
+
 Desde 1974 a franquia Dungeons and Dragons vem angariando novos jogadores, sendo uma grande referência e a principal porta de entrada para o mundo dos RPGs(Abreviação para Role Playing Games) de tabuleiro.
 
 Com o intuito de trazer mais qualidade de vida para esse público em crescimento foi criado este bot do Discord.Ele oferece uma gama poderosa de recursos para auxiliar jogadores de Dungeons and Dragons 5e na escolha e utilização de magias. Seja você um mestre experiente ou um novato em busca de conhecimento, o Arcane Insights está aqui para guiá-lo pelos caminhos da magia.
