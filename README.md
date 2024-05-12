@@ -8,10 +8,7 @@ O Arcane Insights foi criado como um projeto para a Imersão em Inteligência Ar
 
 # Demo:
 
-
-https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/6955d2fe-e48f-45e4-a36a-9ae5bb880045
-
-
+https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/f107bc67-8ef4-426b-8f45-039e6b014862
 
 ## Um Aliado Essencial em Sua Jornada:
 
