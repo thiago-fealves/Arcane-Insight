@@ -8,7 +8,6 @@ from nextcord.ext import commands # type: ignore
 import json
 import pandas as pd
 import numpy as np
-from unidecode import unidecode
 
 #Variaveis
 load_dotenv()
@@ -24,7 +23,7 @@ df = pd.json_normalize(data=data["magias"],meta=['titulo','description','embed']
 #Configurando aparência do bot e criando sua instância
 activity = nextcord.Game(name="D&D 5e")
 client=nextcord.Client(intents=intents)
-bot = commands.Bot(command_prefix='!',activity=activity,status=nextcord.Status.idle,intents=intents)
+bot = commands.Bot(command_prefix='.',activity=activity,status=nextcord.Status.idle,intents=intents)
 bot.remove_command('help')
 
 #função para comparar o embed do prompt com o embed de cada magia

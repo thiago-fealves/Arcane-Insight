@@ -15201,7 +15201,7 @@
       ]
     },
     {
-      "title": "Raio M\u00edstico",
+      "title": "Rajada M\u00edstica",
       "description": "<p>Um raio de energia crepitante salta na dire\u00e7\u00e3o de uma criatura dentro do alcance da magia. Fa\u00e7a um ataque m\u00e1gico \u00e0 dist\u00e2ncia contra o alvo. Se acertar, o alvo sofre 1d10 pontos de dano energ\u00e9tico.</p>\n<p>A magia cria mais de um raio quando voc\u00ea atinge n\u00edveis mais elevados: dois raios no 5\u00ba n\u00edvel, tr\u00eas raios no 11\u00ba n\u00edvel, e quatro raios no 17\u00ba n\u00edvel. Voc\u00ea pode direcionar os raios contra o mesmo alvo ou contra alvos diferentes. Fa\u00e7a uma jogada de ataque separada para cada raio.</p>",
       "embed": [
         -0.026355024, -0.037907194, -0.015311082, 0.05679208, 0.045564644,
@@ -16162,7 +16162,7 @@
     },
     {
       "title": "Retirada Acelerada",
-      "description": "<p>Esta magia permite que voc\u00ea se mova em um ritmo incr\u00edvel. Ao conjur\u00e1-la, e depois com uma a\u00e7\u00e3o b\u00f4nus em cada um dos seus turnos at\u00e9 a magia se encerrar, voc\u00ea pode executar a a\u00e7\u00e3o Correr.</p>",
+      "description": "<p>Tempo de conjuração:uma ação bônusEsta magia permite que voc\u00ea se mova em um ritmo incr\u00edvel. Ao conjur\u00e1-la, e depois com uma a\u00e7\u00e3o b\u00f4nus em cada um dos seus turnos at\u00e9 a magia se encerrar, voc\u00ea pode executar a a\u00e7\u00e3o Correr.</p>",
       "embed": [
         0.008034023, -0.016702456, -0.045358203, 0.03707959, 0.004935487,
         0.010602345, 0.0048318245, -0.015768906, 0.004596943, 0.033168517,
