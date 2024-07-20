@@ -48,7 +48,7 @@ O Arcane Insights se destaca por sua capacidade de fornecer informações de for
   ![image](https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/b5816e05-cf94-433d-8edc-0e9cb82a3947)
 
 
-Fonte do arquivo json(que foi modificado) com as magias: https://gitlab.com/fvtt-brasil/dnd5e/-/tree/master/dnd5e_pt-BR/lang/pt-BR/compendium
+Fonte do arquivo json (que foi modificado) com as magias: https://github.com/5etools-mirror-1/5etools-mirror-1.github.io/tree/master
 
 ## Sobre o criador:
 - Linkedin: https://linkedin.com/in/thiago-felipe-alves-do-carmo-6174b5215
