@@ -1,4 +1,4 @@
-# Arcane-Insight
+# 🧙‍♂️ Arcane-Insight
 #### Domine os Mistérios Arcanos e Aprimore Sua Aventura com o Arcane Insight!
 ![image](https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/a2cdf4ab-4e38-4dff-8c5e-4c7899e16813)
 
@@ -8,29 +8,29 @@ Com o intuito de trazer mais qualidade de vida para esse público em crescimento
 
 O Arcane Insights foi criado como um projeto para a Imersão em Inteligência Artificial Google e Alura, implementando em conjunto as APIs do Discord e do Gemini.
 
-# Demo:
+# 🎥 Demo:
 
 https://github.com/Oracle-of-Delfos/Arcane-Insight/assets/63806038/f107bc67-8ef4-426b-8f45-039e6b014862
 
-## Um Aliado Essencial em Sua Jornada:
+## 🏆 Um Aliado Essencial em Sua Jornada:
 
 O Arcane Insights se destaca por sua capacidade de fornecer informações de forma clara, concisa e acessível. Através do modelo de linguagem natural do Gemini, o bot torna o conhecimento mágico disponível para todos, independentemente do nível de experiência ou familiaridade com as regras.
 
-## Funcionalidades:
+## ⚡ Funcionalidades:
 
-### Citações Completas de Magias: 
+### 📜 Citações Completas de Magias: 
 - Acesse descrições detalhadas de cada magia, incluindo seus atributos, efeitos e componentes.
 
-### Respostas Contextuais: 
+### 🎯 Respostas Contextuais: 
 - Tire suas dúvidas sobre magias e suas aplicações.
 - O Arcane Insight responde a perguntas complexas com clareza e precisão, ajudando você a entender o funcionamento das magias de acordo com o contexto da sua campanha.
 
-### Busca inteligente: 
+### 🔍 Busca inteligente: 
 - Faça perguntas específicas e deixe que o Arcane Insight entenda o contexto de sua situação e te ajude a achar a magia certa para cada situação.
 - Encontre magias que se encaixam em seu estilo de jogo, objetivos e desafios da campanha.
 - Descubra combinações sinérgicas entre diferentes feitiços.
   
-## Utilização:
+## 🎮 Utilização:
 - Utilize os comandos `!grimorio {prompt}` ou `!g {prompt}` para interagir com o bot
 - O Arcane Insight reconhece linguagem natural e fará o seu melhor para entender suas solicitações.
 - Seja criativo e explore as diversas possibilidades que o bot oferece.
@@ -49,6 +49,3 @@ O Arcane Insights se destaca por sua capacidade de fornecer informações de for
 
 
 Fonte do arquivo json (que foi modificado) com as magias: https://github.com/5etools-mirror-1/5etools-mirror-1.github.io/tree/master
-
-## Sobre o criador:
-- Linkedin: https://linkedin.com/in/thiago-felipe-alves-do-carmo-6174b5215
